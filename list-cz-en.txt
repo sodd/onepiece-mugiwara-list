@@ -393,163 +393,163 @@ Mariňácká pátrací četa se blíží! Další člen posádky zajat!
 Luffyho a Sanjiho odhodlání! Velký únikový plán!
 201
 #EN 10 x 6  The Squadron of Burning Souls Attack! Battle on the Bridge! 2004-09-05
-
+Eskadra planoucích duší útočí! Bitva na mostě!
 202
 #EN 10 x 7  Breaking Through Enemy Lines! The Rescue of the Going Merry!    2004-09-12
-
+Proražení nepřátelských linií! Záchrana Going Merry
 203
 #EN 10 x 8  The Pirate Ship Disappears! Stronghold Battle, Round 2  2004-09-19
-
+Zmizení pirátské lodi! Bitva v pevnosti, druhé kolo
 204
 #EN 10 x 9  Operation Gold Recovery and Operation Waver Retrieval!  2004-10-03
-
+Operace "Získání zlata" a Operace "Získání Waveru"!
 205
 #EN 10 x 10 The Pirate Round-Up Plan! Jonathon's Secret Winning Strategy!   2004-10-03
-
+Plán na pozatýkání pirátů! Jonathanova tajná vítězná strategie!
 206
 #EN 10 x 11 So Long, Marine Base! The Final Battle for Freedom  2004-10-10
-
+Sbohem, mariňácká pevnosti! Poslední zatlačení k útěku
 207
 #EN 10 x 12 Big Adventure in Long Ring Long Land    2004-10-31
-
+Velké dobrodružství v Long Ring Long Landu!
 208
 #EN 10 x 13 The Foxy Pirate Crew and the Davy Back! 2004-11-07
-
+Foxyho piráti a Davy Back!
 209
 #EN 10 x 14 Round 1! One Lap of the Donut Race  2004-11-14
-
+První disciplína! Koblihový závod o jednom kole
 210
 #EN 10 x 15 Foxy the Silver Fox! A Violent Interference 2004-11-21
-
+Foxy Stříbrná liška! Násilná sabotážní ofenzíva
 211
 #EN 10 x 16 Round 2! Shoot into the Groggy Ring!    2004-11-28
-
+Druhá disciplína! Srážení v Groggy Ringu
 212
 #EN 10 x 17 Rapid-Fire Red Cards! Groggy Ring   2004-12-05
-
+Zuřivost červené karty! Groggy Ring
 213
 #EN 10 x 18 Round 3! Round and Round Roller Race!   2004-12-12
-
+Třetí disciplína! Na bruslích kolem dokola!
 214
 #EN 10 x 19 Burning Roller Race! Dash into the Final Round! 2004-12-19
-
+Doběla rozžhavený závod -- zážeh! Plnou silou do posledního kola!
 215
 #EN 10 x 20 The Screaming Speed Serve! Pirate Dodgeball!    2005-01-09
-
+Kolem létají žhavé míče! Je tu pirátská vybíjená!
 216
 #EN 10 x 21 Final Match on the Edge! Dharma has Fallen! 2005-01-09
-
+Bitva na útesu! Daruma upadl!
 217
 #EN 10 x 22 Captain Confrontation! The Last Fight: Combat!  2005-01-16
-
+Souboj kapitánů! Poslední disciplína -- boj!
 218
 #EN 10 x 23 Full Power Noro Noro Beam vs The Invulnerable Luffy 2005-01-23
-
+Totální útok Noro Noro proti Nezničitelnému Luffymu
 219
 #EN 10 x 24 Heroic Fierce Combat! The Fateful Last Battle   2005-01-30
-
+Toto je poslední disciplína Davy Back Fightu -- zuřivý a epický souboj kapitánů!
 220
 #EN 10 x 25 Lost? Stolen? Who are You?  2005-02-06
-
+Ztracené? Ukradené? Kdo jste?
 221
 #EN 10 x 26 The Mysterious Boy with the Whistle and Robin's Guess   2005-02-13
-
+Tajemný chlapec s rohem a Robinina dedukce!
 222
 #EN 10 x 27 Get Back the Memories! The Pirates Land 2005-02-20
-
+Dostaneme zpátky naše vzpomínky! Piráti se vydávají na pobřeží
 223
 #EN 10 x 28 Zoro Sharpens His Fangs! A Fight with a Wild Animal 2005-02-27
-
+Zorův úder! Konfrontace s pekelnou bestií!
 224
 #EN 10 x 29 The Real Memory Thief's Final Counterattack!    2005-03-06
-
+Poslední možnost odmaskovaného zloděje paměti!
 225
 #EN 10 x 30 The Man of Pride! Foxy the Silver Fox   2005-03-13
-
+Muž s velkou hrdostí! Foxy Stříbrná liška
 226
 #EN 10 x 31 The Unbeatable Power Draws Near? A Very Dangerous Man!  2005-03-20
-
+Chlapík, co je skoro neporazitelný? A nejnebezpečnější žijící muž!
 227
 #EN 11 x 1  Marine High Admiral Aokiji! The Threat of the Greatest Power    2005-03-27
-
+Admirál Aokiji z Velitelství mariňáků! Strašlivá bojová síla
 228
 #EN 11 x 2  Rubber and Ice One-On-One Fight! Luffy vs Aokiji!   2005-03-27
-
+Bitva gumy a ledu! Luffy proti Aokijimu!
 229
 #EN 11 x 3  Running Sea Train! The City of Water, Water 7   2005-04-17
-
+Expres "Mořský vlak" a Město vody, Water 7
 230
 #EN 11 x 4  The Adventure in the City of Water! Aim for the Giant Shipyard  2005-04-24
-
+Dobrodružství ve Městě vody! Vyrážíme do obří loděnice
 231
 #EN 11 x 5  The Franky Family and Iceburg!  2005-05-01
-
+Frankyho bratři a pan Iceberg
 232
 #EN 11 x 6  Galley-La Company! The Magnificent Dock #1  2005-05-15
-
+Společnost Galley-La! Velkolepý Dok jedna
 233
 #EN 11 x 7  The Pirate Kidnapping Incident and the Pirate Ship Waits for Death! 2005-05-22
-
+Případ uneseného piráta a Loď odsouzená k smrti
 234
 #EN 11 x 8  Rescuing a Friend! The Raid on the Franky House 2005-06-05
-
+Záchrana kamaráda! Útok na Franky House
 235
 #EN 11 x 9  Quarrel in the Moonlight! The Pirate Ship Trembles in Sadness   2005-06-12
-
+Hrozná hádka za svitu měsíce! Pirátská vlajka smutně vlaje!
 236
 #EN 11 x 10 Luffy vs Usopp! The Spirit of the Clashing Men  2005-06-19
-
+Luffy proti Usoppovi! Když se střetnou vůle dvou mužů
 237
 #EN 11 x 11 The City of Water is Shaking! Iceburg was Targeted! 2005-07-03
-
+Město vody v šoku! Komplot proti Icebergovi!
 238
 #EN 11 x 12 Rubberman vs Fire-Breathing Cyborg  2005-07-10
-
+Gomu Gomu člověk proti oheň chrlícímu kyborgovi
 239
 #EN 11 x 13 The Criminals are the Straw Hat Pirates? The Bodyguards of Water 7  2005-07-31
-
+Zločinci jsou Slamákoví piráti? Strážci Města vody
 240
 #EN 11 x 14 An Eternal Farewell? Nico Robin, The Woman Who Bears Darkness   2005-08-07
-
+Navždy sbohem? Temná stránka Nico Robin
 241
 #EN 11 x 15 Catch Robin! The Determination of the Straw Hat Pirates 2005-08-14
-
+Musíme dostat Robin! Rozhodnutí Slamáků.
 242
 #EN 11 x 16 The Signal is the Explosion! CP9 Starts to Move 2005-08-21
-
+Výbuch signalizující útok!! CP9 se dalo do pohybu
 243
 #EN 11 x 17 CP9 Unmasked! Their Shocking True Faces 2005-09-04
-
+CP9 odmaskovaná! Jejich překvapivé tváře
 244
 #EN 11 x 18 The Secret Bond! Franky and Iceburg 2005-09-11
-
+Skrytá pouta! Iceberg a Franky
 245
 #EN 11 x 19 Come Back, Robin! The Confrontation with CP9    2005-09-18
-
+Vrať se, Robin! Konfrontace s CP9!
 246
 #EN 11 x 20 Destruction of the Straw Hat Pirates? The Terror of the Model Leopard!  2005-10-23
-
+Konec Slamáků? Leopardův Terror!
 247
 #EN 11 x 21 The Man who is Loved by his Ship! Usopp's Tears!    2005-10-30
-
+Muž, milující svou loď! Usoppovy slzy!
 248
 #EN 11 x 22 Franky's Past! The Day the Sea Train Ran    2005-11-06
-
+Frankyho minulost! Den výjezdu Mořského vlaku
 249
 #EN 11 x 23 Spandam's Conspiracy! The Day the Sea Train Shook   2005-11-13
-
+Spandamovo Spiknutí! Den, kdy se Mořský vlak zachvěl
 250
 #EN 11 x 24 The End of the Legendary Man! The Day the Sea Train Cried   2005-11-20
-
+Konec Legendárního Muže! Den, kdy Mořský Vlak Plakal
 251
 #EN 11 x 25 The Truth Behind the Betrayal! Robin's Sorrowful Decision!  2005-11-20
-
+Pravda, skrývající se za zradou! Robinino smutné rozhodnutí!
 252
 #EN 11 x 26 The Steam Whistle Separates the Group! The Sea Train Begins to Run  2005-12-04
-
+Píšťala, která odděluje kamarády! Odjezd Mořského vlaku
 253
 #EN 11 x 27 Sanji Breaks In! The Sea Train Battle in the Storm! 2005-12-11
-
+Sanjiho výpad! Bitva v Mořském vlaku
 254
 #EN 11 x 28 The Shout of Nami's Soul! The Return of the Straw Hat!  2006-01-22
 
@@ -918,10 +918,10 @@ Luffyho a Sanjiho odhodlání! Velký únikový plán!
 
 376
 #EN 12 x 51 Kuma`s Nikyu Nikyu Abilities That Deflect Everything    2008-11-09
-
+Kumova Schopnost Nikyu Nikyu. Ten, Co Všechno Odrazí
 377
 #EN 12 x 52 My Companions' Pain is My Pain - Zoro Prepares to Die   2008-11-16
-
+Bolest Mého Přítele je i Má Bolest - Zoro Připraven Zemřít
 378
 #EN 12 x 53 The Promise on that Distant Day - The Song of Pirates and a Small Whale 2008-11-23
 
@@ -1346,7 +1346,7 @@ Luffyho a Sanjiho odhodlání! Velký únikový plán!
 
 517
 #EN 15 x 1  A New Chapter Opens - The Straw Hat Pirates Regather!   2011-10-02
-
+Počátek nové kapitoly! Znovusetkání Slamáků!
 518
 #EN 15 x 2  An Explosive Situation! Luffy vs Fake Luffy 2011-10-09
 

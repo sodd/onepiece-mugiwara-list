@@ -567,10 +567,10 @@ Zničte vlnu! Neporazitelné kombo Luffyho a Zora!
 Objevuje se záhadný muž!? Jeho jméno je Sogeking!
 259
 #EN 11 x 33 Cook Confrontation! Sanji vs Ramen Kenpo    2006-03-12
-ZÚČTOVÁNÍ KUCHAŘŮ!\NSANJI VS RAMEN KENPO
+Zúčtování kuchařů! Sanji vs Ramen Kenpo
 260
 #EN 11 x 34 Duel on the Roof! Franky vs Nero!   2006-03-19
-FRANKY VS NERO! Souboj na střeše
+Franky vs Nero! Souboj na střeše
 261
 #EN 11 x 35 Crash! Demon-Cutting Zoro vs Ship-Cutting T-Bone!   2006-04-02
 Velkolepý střet! Šermířský démon Zoro vs Přesekávač Lodí T-Bone
@@ -645,7 +645,7 @@ Vše Pro Mé Kamarády! Robin Tápe V Temnotě!
 Nedám Vám Náčrty!Frankyho Rozhodnutí!
 285
 #EN 11 x 59 Retrieve the 5 Keys! The Straw Hat Crew vs CP9  2006-11-12
-Získejte 5 Klíčů! Slamáci Versus CP9!
+Získejte 5 Klíčů! Slamáci vs CP9!
 286
 #EN 11 x 60 Power of the Devil Fruit! Kaku and Jyabura Transform    2006-11-19
 Síla Ďáblových Ovocí! Přeměna Kakua a Jyabury!
@@ -696,226 +696,226 @@ Bůh Krutosti Zoro! Ztělesnění Asury Skrze Jeho Ducha.
 Spandam je Překvapen! Hrdina, který Stojí na Věži Spravedlnosti.
 302
 #EN 11 x 76 Robin's Liberation! Luffy vs. Lucci: Peak of the Decisive Battle    2007-03-25
-
+Robin Zachráněna! Luffy vs. Lucci: Vyvrcholení Rozhodující Bitvy
 303
 #EN 11 x 77 The Criminal is Boss Luffy? Chase the Vanished Great Sakura Tree    2007-04-01
-
+ZLOČINCEM JE ŠÉF LUFFY?\N NAJDĚTE ZTRACENOU OBROVSKOU SAKURU
 304
 #EN 11 x 78 If I Can't Win, I Can't Protect Anyone! Gear Third Activates    2007-04-08
-
+Když Nevyhraju, Nikoho Neochráním! Třetí Stupeň Aktivován
 305
 #EN 11 x 79 The Terrifying Past! Dark Justice and Rob Lucci 2007-04-15
-
+Děsivá Minulost! Temná Spravedlnost a Rob Lucci.
 306
 #EN 11 x 80 A Phantom Mermaid is Here? Within Fading Consciousness  2007-04-22
-
+Zjevení Záhadné Mořské Panny?  Uprostřed Zkolabování.
 307
 #EN 11 x 81 The Island Sinking in Gunfire! Franky's Outcry of Regret    2007-04-29
-
+Ostrov pod Neutuchající Palbou! Frankyho Žalostné Výkřiky
 308
 #EN 11 x 82 Wait for Luffy! Fight to the Death on the Bridge of Hesitation! 2007-05-06
-
+Čekejte na Luffyho! Boj na Mostě Zaváhání
 309
 #EN 11 x 83 Feelings Put Into Fists! Luffy's Full-Power Gatling 2007-05-13
-
+Pěsti Ukazující Pocity! Luffyho Kulomet v Plných Obrátkách!
 310
 #EN 11 x 84 A Friend Approaches from the Sea! The Straw Hat Crew's Strongest Bonds  2007-05-20
-
+Přítel Pocházející z Moře! Nejsilnější Pouto Slamáků
 311
 #EN 11 x 85 The Crew's Great Escape! The Victor's Path is for the Pirates   2007-05-27
-
+Velký Útěk Dokonán! Po Cestě Vítězství Kráčí Piráti
 312
 #EN 11 x 86 Thank You Merry! The Sea of Separation in the Snow  2007-06-03
-
+Děkuju Ti, Merry! Sníh na Moři Rozloučení
 313
 #EN 11 x 87 The Disturbance of Peace! The Vice-Admiral with the Fist of Love    2007-06-10
-
+Narušený Odpočinek! Mariňácký Viceadmirál s Pěstí Lásky
 314
 #EN 11 x 88 The Strongest Family Line? Luffy's Father Revealed! 2007-06-17
-
+Nejmocnější Rodová Linie? Identita Luffyho Otce Odhalena
 315
 #EN 11 x 89 Its Name is The New World! The Whereabouts of the Great Grand Line! 2007-06-24
-
+Jmenuje se Nový Svět! Dál na Grand Line
 316
 #EN 11 x 90 Shanks Moves! Ceremony to the Rampaging Age 2007-07-01
-
+Shanks se dal do Pohybu! Oslava Běsnící Éry!
 317
 #EN 11 x 91 The Girl Searching for the Yagara! Great Investigation in the Water Metropolis! 2007-07-08
-
+Dívka Hledající Yagaru! Velké Pátrání ve Městě Vody!
 318
 #EN 11 x 92 The Mother is Strong! Zoro's Slapstick Housework Help   2007-07-15
-
+Matka je Silná! Zoro Pomáhá s Domácí Prací
 319
 #EN 11 x 93 Sanji Crashes! The Mysterious Old Man and Intense Cooking   2007-07-22
-
+Sanji Šokován! Záhadný Stařík a Vášnivé Vaření
 320
 #EN 11 x 94 Everyone's Finally Wanted! The Crew of Over Six Hundred Million!    2007-08-19
-
+Všichni Konečně Hledaní! Posádka s Odměnu Přesahující 600 Milionů!
 321
 #EN 11 x 95 The King of Beasts that will Cross the Ocean! The Dream Ship's Magnificent Completion!  2007-08-26
-
+Král Zvířat, který Přepluje Oceán! Dokončení Velkolepé Lodě Snů!
 322
 #EN 11 x 96 Goodbye my Lovable Followers! Franky Departs    2007-09-02
-
+Sbohem Moji Milí Stoupenci! Franky Odchází
 323
 #EN 11 x 97 Departing the Water Metropolis! Distinction of the Manly Usopp's Duel   2007-09-09
-
+Odjezd z Vodního Města! Vyvršení Usoppova Mužného Souboje
 324
 #EN 11 x 98 The World-Wide Bounties! The Hometowns Dance as the Ship Sails Forward! 2007-09-16
-
+Odměny Celosvětového Rázu! Rodná Města Tančí, jak Loď Pluje Kupředu.
 325
 #EN 11 x 99 The Most Evil Ability! Blackbeard's Darkness Attacks Ace    2007-09-23
-
+Nejzlověstnější Schopnost!Černovousova Temnota Útočí na ACE.
 326
 #EN 12 x 1  Mysterious Party of Pirates! The Sunny and a Dangerous Trap 2007-10-14
-
+Záhadná Pirátská Posádka! Sunny a Nebezpečná Past
 327
 #EN 12 x 2  Sunny in a Pinch! Roar, Secret Superspeed Mecha 2007-10-21
-
+Sunny v Nouzi! Burácení, Tajný Extrarychlý Stroj
 328
 #EN 12 x 3  The Dream Sinking in the New World! The Pirate of Despair, Puzzle   2007-10-28
-
+Sen Utopený v Novém Světě! Pirát, který Ztratil Naději, Puzzle
 329
 #EN 12 x 4  The Assassins Attack! The Great Battle Above the Ice Begins 2007-11-04
-
+Útok ze Zálohy!\N VELKÁ LEDOVÁ BITVA ZAČÍNÁ.
 330
 #EN 12 x 5  The Hard Fights of the Straw Hat Crew! The Pirate Soul Banking it All on the Flag!  2007-11-11
-
+Těžké Bitvy Slamáků! pirátská Duše Riskující vše Pro Vlakju!
 331
 #EN 12 x 6  Hot Full Throttle! The Twins' Magnetic Power Draws Near 2007-11-18
-
+Horlivě na Plný Plyn! Magnetická Síla Dvojčat Útočí
 332
 #EN 12 x 7  The Great Chaos Mansion! The Angry Don and the Imprisoned Crew  2007-11-25
-
+Chaotické Sídlo! Rozzuřený Don a Zajatá Posádka
 333
 #EN 12 x 8  The Phoenix Returns! The Dream of the Pirate Flag Sworn to a Friend 2007-12-02
-
+Návrat Fénixe! Sen o Vlajce Zapřísáhlý Příteli
 334
 #EN 12 x 9  The Red Hot Decisive Battle! Luffy vs. the Scorching Don    2007-12-09
-
+Horlivá Rozhodující Bitva! Luffy vs. Rozpálený Don
 335
 #EN 12 x 10 Waiting in the New World! Farewell to the Courageous Pirates    2007-12-16
-
+Počkáme v Novém Světě! Sbohem Hrdým Pirátům
 336
 #EN 12 x 11 Chopperman Departs! Protect the TV Station by the Shore 2007-12-23
-
+Chopperman jde Zachraňovat! Chraňte Televizní Stanici na Pobřeží
 337
 #EN 12 x 12 Venture Into the Devil's Sea! The Mysterious Skeleton Floating Through the Fog  2008-01-06
-
+Proniknutí do Démoního Moře! Tajemný Kostlivec Toulající se v Mlze
 338
 #EN 12 x 13 The Delight of Having Met People! The Gentleman Skeleton's True Colors  2008-01-13
-
+Potěšení ze Setkání s Lidmi! Pravé Pocity Kostlivce Džentlemana
 339
 #EN 12 x 14 One Phenomenon After Another! Disembarking at Thriller Bark 2008-01-20
-
+Jedna Záhada za Druhou! Vylodění na Thriller Barku
 340
 #EN 12 x 15 The Man Called a Genius! Hogback Appears!   2008-01-27
-
+Muž Zvaný Génius! Hogback se Objevil
 341
 #EN 12 x 16 Nami in Big Trouble! The Zombie Mansion and the Invisible Man   2008-02-03
-
+Nami ve Velkých Potížích! Sídlo Zombíků a Neviditelný Muž
 342
 #EN 12 x 17 Mystery of the Zombies! Hogback's Nightmarish Research Laboratory   2008-02-10
-
+Záhada Zombíků! Ďábelská Laboratoř Doktora Hogbacka
 343
 #EN 12 x 18 His Name is Moria! Trap of the Great Shadow-Stealing Pirate 2008-02-17
-
+Jmenuje se Moria! Past Velkého Piráta Kradoucího Stíny!
 344
 #EN 12 x 19 Feast of the Zombie Song! The Bell of the Night Raid is a Sound of Darkness 2008-02-24
-
+Ozvěna Hostiny Zombíků! Zvon Odbíjející Temnotu
 345
 #EN 12 x 20 Filled with Animals!? Perona's Wonder Garden    2008-03-02
-
+Spousta Zvířat? Peronina Zahrada Divů
 346
 #EN 12 x 21 Disappearing Strawhat Crew! The Mysterious Swordsman Appears!   2008-03-09
-
+Mizející Slamáci! Záhadný Šermíř se Objevil
 347
 #EN 12 x 22 Leftover Chivalry! The Traitorous Zombie who Protects Nami  2008-03-16
-
+Přetrvávající Galantnost! Zombík Zrádce, který Chrání Nami
 348
 #EN 12 x 23 Coming from the Sky! That Man is the    2008-03-23
-
+Přišel z Nebes! Tím Mužem je Bzučivý Šermíř
 349
 #EN 12 x 24 Luffy in an Emergency! The Living Place of the Strongest Shadow!    2008-03-30
-
+Luffy ve Stavu Nouze! Osud Nejsilnějšího Stínu
 350
 #EN 12 x 25 The Warrior Called a Demon!! The Time of Oars's Resurrection    2008-04-20
-
+Válečník Zvaný Démon! Čas Ozova Vzkříšení!
 351
 #EN 12 x 26 Awakening After 500 Years!! Oars Revives!!  2008-04-27
-
+Probuzení po 500 Letech! Oz Oživen
 352
 #EN 12 x 27 Conviction Strong Enough to Beg for One's Life!! Brook Protects his Afro    2008-05-04
-
+Přesvědčení, které Vás Přinutí Prosit o Život! Brook Chrání Své Afro
 353
 #EN 12 x 28 A Man's Oath will Never Die! From Far Memories to the Waiting Friend    2008-05-11
-
+Slib Muže Nikdy Neumírá! Přítel Čekající pod Vzdálenými Nebesy
 354
 #EN 12 x 29 We will Definately Meet Again! Brook and the Promise of the Cape    2008-05-18
-
+Rozhodně se Znovu Setkáme! Brook a Mys Naděje
 355
 #EN 12 x 30 Food, Nami and Shadows!! Luffy's Angry Counterattack    2008-05-25
-
+Jídlo, Nami a Stíny! Luffyho Zuřivý Protiútok
 356
 #EN 12 x 31 Usopp the Strongest? Leave the Negatives to Me  2008-06-01
-
+Usopp Nejsilnější? Ty Negativy Nechte na Mně
 357
 #EN 12 x 32 Sudden Death of the General Zombies!! Oars in an Adventurous Mood   2008-06-08
-
+Náhlá Smrt Zombie Generálů! Oz v Dobrodružné Náladě
 358
 #EN 12 x 33 Sanji, the Knight of Flames!! Kick Down the False Ceremony  2008-06-15
-
+Plamenný Rytíř, Sanji! Zastav ten Falešný Obřad
 359
 #EN 12 x 34 Invisibility Connection? Sanji's Stolen Dream   2008-06-22
-
+Problém s Neviditelností? Sanjiho Ukradený Sen
 360
 #EN 12 x 35 Saving Hero!! The Enemy is the Invincible Princess  2008-06-29
-
+Zachraň Mě, Hrdino! Soupeř je Neporazitelná Princezna
 361
 #EN 12 x 36 Perona's Terror!! The U in Uso is the U in Usopp    2008-07-06
-
+Strach Perony! "U" v Uso je "U" v Usopp
 362
 #EN 12 x 37 Slashes Dancing on the Roof!! Finale - Zoro vs. Ryuma   2008-07-13
-
+Meče Tančí na Střeše!! Finále - Zoro vs Ryuma
 363
 #EN 12 x 38 Chopper`s Rage!! Hogback`s Demonic Medical Practice 2008-07-20
-
+Chopperův Hněv! Hogbackovy Ďábelské Praktiky
 364
 #EN 12 x 39 Oars Roars!! Come Out Straw Hat Crew    2008-08-03
-
+Ozův Řev! Vylezte, Slamáci
 365
 #EN 12 x 40 The Enemy is Luffy!! The Strongest Zombie vs. the Straw Hat Crew    2008-08-10
-
+Nepřítel je Luffy! Nejsilnější Zombík Proti Slamákům
 366
 #EN 12 x 41 Defeat Absalom!! Nami's Lightning Attack of Friendship! 2008-08-17
-
+Poraž Absaloma! Namin Bleskový Útok Přátelství
 367
 #EN 12 x 42 One Down!! Sure Kill Straw Hat Docking? 2008-08-24
-
+Jeden Vyřízenej! Ultimátní Slamácké Spojení?
 368
 #EN 12 x 43 Soundless Invasion!! The Mysterious Visitor: Kuma the Tyrant    2008-08-31
-
+Tichá Invaze! Záhadný Návštěvník, Tyran Kuma
 369
 #EN 12 x 44 Oars + Moria - The Greatest Combination of Brains and Brawn 2008-09-07
-
+Oz + Moria! Nejsilnější Kombinace Mozku a Síly
 370
 #EN 12 x 45 A Crazy Strategy to Turn the Tables - The Creation of Nightmare Luffy   2008-09-14
-
+Strategie k Otočení Průběhu! Přízrak Luffy na Scéně
 371
 #EN 12 x 46 The Straw Hat crew annihilated! Full-throttle Kage Kage abilities!  2008-09-21
-
+Slamáci Vyhlazeni! Kage Kage v Plných Obrátkách
 372
 #EN 12 x 47 The Battle for Superiority Starts! Luffy vs. Luffy  2008-09-28
-
+Bitva o Převahu Začíná! Luffy vs Luffy
 373
 #EN 12 x 48 The Conclusion Arrives! Deliver the Finishing Blow  2008-10-05
-
+Rozhodnutí je tady! Poslední Úder
 374
 #EN 12 x 49 The Bodies Vanish! The Morning Sun Pierces Through the Nightmare Island!    2008-10-12
-
+Těla Mizí! Ranní Paprsky Slunce Zasahují Hrůzostrašný Ostrov
 375
 #EN 12 x 50 The Endless Crisis! Orders to Obliterate the Straw Hat Crew 2008-10-19
-
+Nekonečná Krize! Rozkaz Zavraždit Slamáky
 376
 #EN 12 x 51 Kuma`s Nikyu Nikyu Abilities That Deflect Everything    2008-11-09
 Kumova Schopnost Nikyu Nikyu. Ten, Co Všechno Odrazí

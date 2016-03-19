@@ -1,1434 +1,1434 @@
-70 
+70
 #EN 6 x 1   An Ancient Island! The Shadow Hiding in Little Garden!   2001-05-27
 Prehistorický ostrov! Stín, který číhá na Little Garden!
 71
-#EN 6 x 2   Huge Duel! The Giants Dorry and Broggy! 2001-06-03   
+#EN 6 x 2   Huge Duel! The Giants Dorry and Broggy! 2001-06-03
 Obrovská bitva! Obři Dorry a Brogy!
 72
-#EN 6 x 3   Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!   2001-06-17   
+#EN 6 x 3   Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!   2001-06-17
 Luffyho hněv! Špinavý trik v posvátné bitvě!
 73
-#EN 6 x 4   Broggy's Bitter Tears of Victory! The Conclusion of Elbaf!  2001-06-24   
+#EN 6 x 4   Broggy's Bitter Tears of Victory! The Conclusion of Elbaf!  2001-06-24
 Brogy vítězně naříká! Elbafův soud
 74
-#EN 6 x 5   The Devilish Candle! Tears of Regret and Tears of Anger!    2001-07-15   
+#EN 6 x 5   The Devilish Candle! Tears of Regret and Tears of Anger!    2001-07-15
 Ďáblova svíce! Slzy lítosti a slzy hněvu
 75
-#EN 6 x 6   A Hex on Luffy! Colors Trap!    2001-08-12   
+#EN 6 x 6   A Hex on Luffy! Colors Trap!    2001-08-12
 Luffy napadený magií! Barevná past
 76
-#EN 6 x 7   Time to Fight Back! Usopp's Quick Thinking and Fire Star!   2001-08-19   
+#EN 6 x 7   Time to Fight Back! Usopp's Quick Thinking and Fire Star!   2001-08-19
 Kritický protiútok! Usoppovo rychlé myšlení a Kaenboshi!
 77
-#EN 6 x 8   Farewell Giant Island! Head for Alabasta!   2001-08-19   
+#EN 6 x 8   Farewell Giant Island! Head for Alabasta!   2001-08-19
 Loučení s ostrovem obrů! Kupředu na Alabastu
 78
-#EN 6 x 9   Nami's Sick? Beyond the Snow Falling On The Stars!  2001-08-26   
+#EN 6 x 9   Nami's Sick? Beyond the Snow Falling On The Stars!  2001-08-26
 Nami je nemocná? Za sněhem, který padá na oceán!
 79
-#EN 6 x 10  A Raid! The Tin Tyrant and Tin Plate Wapol! 2001-09-02   
+#EN 6 x 10  A Raid! The Tin Tyrant and Tin Plate Wapol! 2001-09-02
 Přepadení!  Bliking a Wapol Blik
 80
-#EN 6 x 11  An Island without Doctors? Adventure in a Nameless Land!    2001-09-09   
+#EN 6 x 11  An Island without Doctors? Adventure in a Nameless Land!    2001-09-09
 Ostrov bez doktorů? Dobrodružství v zemi beze jména!
 81
-#EN 6 x 12  Are You Happy? The Doctor Called Witch! 2001-09-16   
+#EN 6 x 12  Are You Happy? The Doctor Called Witch! 2001-09-16
 Jste happy? Doktorka, které říkají "Čarodějnice"!
 82
-#EN 6 x 13  Dalton's Resolve! Wapol's Corps Land on the Island! 2001-10-07   
+#EN 6 x 13  Dalton's Resolve! Wapol's Corps Land on the Island! 2001-10-07
 Daltonovo odhodlání! Wapolovy jednotky se vyloďují
 83
-#EN 6 x 14  The Island Where Snow Lives! Climb the Drum Rockies!    2001-10-07   
+#EN 6 x 14  The Island Where Snow Lives! Climb the Drum Rockies!    2001-10-07
 Ostrov, který žije ve sněhu! Vylezte na Drumské Skalisté!
 84
-#EN 6 x 15  Blue-nosed Reindeer! Chopper's Secret!  2001-10-21   
+#EN 6 x 15  Blue-nosed Reindeer! Chopper's Secret!  2001-10-21
 Sob s modrým nosem! Chopperovo tajemství
 85
-#EN 6 x 16  An Outcast's Dream! Hiriluk the Quack!  2001-10-28   
+#EN 6 x 16  An Outcast's Dream! Hiriluk the Quack!  2001-10-28
 Sen vyvrženců! Šarlatánský doktor Hiluluk!
 86
-#EN 6 x 17  Hiriluk's Cherry Blossoms and the Will that Gets Carried On!    2001-11-04   
+#EN 6 x 17  Hiriluk's Cherry Blossoms and the Will that Gets Carried On!    2001-11-04
 Hilulukova sakura a zděděná vůle!
 87
-#EN 6 x 18  Fight Wapol's Crew! The Power of the Munch Munch Fruit! 2001-11-11   
+#EN 6 x 18  Fight Wapol's Crew! The Power of the Munch Munch Fruit! 2001-11-11
 Proti Wapolově armádě! Schopnosti ovoce Baku Baku!
 88
-#EN 6 x 19  Zoan-type Devil Fruit! Chopper's Seven-form Transformation! 2001-11-18   
+#EN 6 x 19  Zoan-type Devil Fruit! Chopper's Seven-form Transformation! 2001-11-18
 Ďáblovo ovoce z rodiny Zoan! Chopperova sedmistupňová proměna
 89
-#EN 6 x 20  When the Kingdom's Rule Ends! The Flag of Faith Flies Forever!  2001-11-25   
+#EN 6 x 20  When the Kingdom's Rule Ends! The Flag of Faith Flies Forever!  2001-11-25
 Když skončí vláda království! Vlajka přesvědčení trvá navěky
 90
-#EN 6 x 21  Hiriluk's Cherry Blossoms! Miracle in the Drum Rockies! 2001-12-02   
+#EN 6 x 21  Hiriluk's Cherry Blossoms! Miracle in the Drum Rockies! 2001-12-02
 Hilulukova sakura! Zázrak v Drumských Skalistých
 91
-#EN 6 x 22  Goodbye Drum Island! I'm Going Out to Sea!  2001-12-09   
+#EN 6 x 22  Goodbye Drum Island! I'm Going Out to Sea!  2001-12-09
 Sbohem, ostrove Drum! Vyrážím na moře!
 92
-#EN 7 x 1   Alabasta's Hero and a Ballerina on the Ship!    2001-12-09   
+#EN 7 x 1   Alabasta's Hero and a Ballerina on the Ship!    2001-12-09
 Hrdina Alabasty a balerína na palubě
 93
-#EN 7 x 2   Off to the Desert Kingdom! The Rain-Summoning Powder and the Rebel Army!    2001-12-16   
+#EN 7 x 2   Off to the Desert Kingdom! The Rain-Summoning Powder and the Rebel Army!    2001-12-16
 Příjezd do pouštního království! Prášek na přivolání deště a armáda vzbouřenců
 94
-#EN 7 x 3   The Heroes' Reunion! His Name is Fire First Ace!    2001-12-23   
+#EN 7 x 3   The Heroes' Reunion! His Name is Fire First Ace!    2001-12-23
 Shledání mocných! Jeho jméno je Ace Ohnivá pěst
 95
-#EN 7 x 4   Ace and Luffy! Hot Emotions and Brotherly Bonds!    2002-01-06   
+#EN 7 x 4   Ace and Luffy! Hot Emotions and Brotherly Bonds!    2002-01-06
 Ace a Luffy! Vřelé vzpomínky a bratrská pouta
 96
-#EN 7 x 5   Erumalu, the City of Green and the Kung Fu Dugongs! 2002-01-13   
+#EN 7 x 5   Erumalu, the City of Green and the Kung Fu Dugongs! 2002-01-13
 Zelené město Erumalu a Kung Fu Dugoňové!
 97
-#EN 7 x 6   Adventure in the Country of Sand! The Monsters that Live in the Scorching Land! 2002-01-20   
+#EN 7 x 6   Adventure in the Country of Sand! The Monsters that Live in the Scorching Land! 2002-01-20
 Dobrodružství v zemi písku! Démoni, co žijí ve spalující zemi!
 98
-#EN 7 x 7   Enter the Desert Pirates! The Men Who Live Freely!  2002-01-27   
+#EN 7 x 7   Enter the Desert Pirates! The Men Who Live Freely!  2002-01-27
 Přicházejí pouštní piráti! Muži, co žijí svobodně
 99
-#EN 7 x 8   False Fortitude! Camu, Rebel Soldier at Heart!  2002-02-03   
+#EN 7 x 8   False Fortitude! Camu, Rebel Soldier at Heart!  2002-02-03
 Duch podvodníků! Srdce armády rebelů, Kamyu!
 100
-#EN 7 x 9   Rebel Warrior Koza! The Dream Vowed to Vivi!    2002-02-19   
+#EN 7 x 9   Rebel Warrior Koza! The Dream Vowed to Vivi!    2002-02-19
 Rebelský válečník Kohza! Sen přísahaný Vivi!
 101
-#EN 7 x 10  Showdown in a Heat Haze! Ace vs. the Gallant Scorpion!  2002-03-17   
-
+#EN 7 x 10  Showdown in a Heat Haze! Ace vs. the Gallant Scorpion!  2002-03-17
+Zápas v oparu horka! Ace proti Škorpiónímu muži
 102
-#EN 7 x 11  Ruins and Lost Ways! Vivi, Her Friends, and the Country's Form! 2002-02-24   
-
+#EN 7 x 11  Ruins and Lost Ways! Vivi, Her Friends, and the Country's Form! 2002-02-24
+Ruiny a ztracení! Vivi, kamarádi a tvar země
 103
-#EN 7 x 12  Spiders Café at 8 o'Clock! The Enemy Leaders Gather!    2002-03-13   
-
+#EN 7 x 12  Spiders Café at 8 o'Clock! The Enemy Leaders Gather!    2002-03-13
+Kavárna Spider's, osm hodin! Setkání nepřátelských vůdců
 104
-#EN 7 x 13  Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line! 2002-03-10   
-
+#EN 7 x 13  Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line! 2002-03-10
+LUFFY VERSUS VIVI! Slzavá přísaha kamarádství!
 105
-#EN 7 x 14  The Battlefront of Alabasta! Rainbase, the City of Dreams!  2002-03-17   
-
+#EN 7 x 14  The Battlefront of Alabasta! Rainbase, the City of Dreams!  2002-03-17
+Alabastská válečná fronta! Město snů, Rainbase
 106
-#EN 7 x 15  The Trap of Certain Defeat! Storming Raindinners!   2002-03-25   
-
+#EN 7 x 15  The Trap of Certain Defeat! Storming Raindinners!   2002-03-25
+Past absolutního konce! Proniknutí do Rain Dinners
 107
-#EN 7 x 16  Operation Utopia Commences! The Swell of Rebellion Stirs!   2002-04-14   
-
+#EN 7 x 16  Operation Utopia Commences! The Swell of Rebellion Stirs!   2002-04-14
+Operace Utopie začíná! Vlna vzpoury se dává do pohybu
 108
-#EN 7 x 17  The Terrifying Banana Gators and Mr. Prince!    2002-04-21   
-
+#EN 7 x 17  The Terrifying Banana Gators and Mr. Prince!    2002-04-21
+Strašliví Bananawani a Mr. Princ
 109
-#EN 7 x 18  The Key to a Great Comeback Escape! The Wax-Wax Ball!   2002-04-28   
-
+#EN 7 x 18  The Key to a Great Comeback Escape! The Wax-Wax Ball!   2002-04-28
+Klíč k obrácení přílivu a velký útěk! Doru Doru Ball!
 110
-#EN 7 x 19  Merciless Mortal Combat! Luffy vs Crocodile!    2002-05-06   
-
+#EN 7 x 19  Merciless Mortal Combat! Luffy vs Crocodile!    2002-05-06
+Nemilosrdný boj na život a na smrt! Luffy proti Crocodileovi
 111
-#EN 7 x 20  Dash For a Miracle! Alabasta Animal Land!   2002-05-12   
-
+#EN 7 x 20  Dash For a Miracle! Alabasta Animal Land!   2002-05-12
+Zázračný sprint! Alabasta, Země zvířat
 112
-#EN 7 x 21  Rebel Army vs. Royal Army! Showdown at Alubarna!    2002-05-19   
-
+#EN 7 x 21  Rebel Army vs. Royal Army! Showdown at Alubarna!    2002-05-19
+Armáda rebelů proti královské armádě! Bitva bude v Alubarně!
 113
-#EN 7 x 22  Alubarna Grieves! The Fierce Captain Karoo! 2002-06-03   
-
+#EN 7 x 22  Alubarna Grieves! The Fierce Captain Karoo! 2002-06-03
+Alubarna pláče! Zuřivý boj kapitána Carueho!
 114
-#EN 7 x 23  Sworn on a Friend's Dream! The Battle of Molehill, Block 4! 2002-06-09   
-
+#EN 7 x 23  Sworn on a Friend's Dream! The Battle of Molehill, Block 4! 2002-06-09
+Přísahej na sen svých kamarádů! Bitva u Krtiny, Čtvrtá avenue
 115
-#EN 7 x 24  Big Opening Day Today! The Copy-Copy Montage!   2002-06-16   
-
+#EN 7 x 24  Big Opening Day Today! The Copy-Copy Montage!   2002-06-16
+Dnešní velké představení! Mane Mane montáž!
 116
-#EN 7 x 25  Transformed into Nami! Bon Clay's Rapid-Fire Ballet Kenpo!  2002-06-23   
-
+#EN 7 x 25  Transformed into Nami! Bon Clay's Rapid-Fire Ballet Kenpo!  2002-06-23
+Proměna v Nami! Bon Clayovo tvrdé Baletní kenpo
 117
-#EN 7 x 26  Nami's Cyclone Advisory! Clima Tact Burst!  2002-06-30   
-
+#EN 7 x 26  Nami's Cyclone Advisory! Clima Tact Burst!  2002-06-30
+Namino varování před tornádem! Exploze klimataktu
 118
-#EN 7 x 27  Secret Passed Down In The Royal Family! The Ancient Weapon Pluton!  2002-07-14   
-
+#EN 7 x 27  Secret Passed Down In The Royal Family! The Ancient Weapon Pluton!  2002-07-14
+Tajemství královské rodiny! Dávná zbraň Pluton
 119
-#EN 7 x 28  Secret Of Powerful Swordplay! Ability To Cut Steel And The Rhythm Things Have!  2002-07-21   
-
+#EN 7 x 28  Secret Of Powerful Swordplay! Ability To Cut Steel And The Rhythm Things Have!  2002-07-21
+Esence mocného meče! Schopnost sekat ocel a dech všech věcí
 120
-#EN 7 x 29  The Battle is Over! Koza Raises the White Flag! 2002-08-04   
-
+#EN 7 x 29  The Battle is Over! Koza Raises the White Flag! 2002-08-04
+Bitva je u konce! Kohza vyvěšuje bílou vlajku
 121
-#EN 7 x 30  Where Vivi's Voice Gets Heard! The Hero Descends!   2002-08-11   
-
+#EN 7 x 30  Where Vivi's Voice Gets Heard! The Hero Descends!   2002-08-11
+Vivin hlas zůstává nevyslyšen! Nástup hrdiny!
 122
-#EN 7 x 31  Sand Croc and Water Luffy! The Second Round of the Duel!    2002-08-18   
-
+#EN 7 x 31  Sand Croc and Water Luffy! The Second Round of the Duel!    2002-08-18
+Písečný Crocodile a Vodní Luffy! Boj na život a na smrt: druhé kolo
 123
-#EN 7 x 32  That Looks Croc-ish! Luffy, Run to the Royal Tomb!  2002-08-25   
-
+#EN 7 x 32  That Looks Croc-ish! Luffy, Run to the Royal Tomb!  2002-08-25
+Smrdí to krokoušem! Utíkej do hrobky královské rodiny, Luffy!
 124
-#EN 7 x 33  The Nightmare Draws Near! This is the Sand-Sand Clan's Secret Base! 2002-09-01   
-
+#EN 7 x 33  The Nightmare Draws Near! This is the Sand-Sand Clan's Secret Base! 2002-09-01
+Noční můra se blíží! Tajná základna klanu Suna Suna
 125
-#EN 7 x 34  Magnificent Wings! My Name is Pell, Guardian Deity of the Country!  2002-09-08   
-
+#EN 7 x 34  Magnificent Wings! My Name is Pell, Guardian Deity of the Country!  2002-09-08
+Úžasná křídla! Mé jméno je Pell, strážný duch království
 126
-#EN 7 x 35  I Will Surpass You! Rain Falls in Alabasta! 2002-09-18   
-
+#EN 7 x 35  I Will Surpass You! Rain Falls in Alabasta! 2002-09-18
+Já tě překonám! Na Alabastu padá déšť!
 127
-#EN 7 x 36  A Farewell to Arms! Pirates and Different Ideas of Justice! 2002-10-06   
-
+#EN 7 x 36  A Farewell to Arms! Pirates and Different Ideas of Justice! 2002-10-06
+Sbohem, armádo! Piráti a malá spravedlnost
 128
-#EN 7 x 37  The Pirates' Banquet And Operation Escape From Alabasta!    2002-10-06   
-
+#EN 7 x 37  The Pirates' Banquet And Operation Escape From Alabasta!    2002-10-06
+Pirátský banket a operace "Útěk z Alabasty"!
 129
-#EN 7 x 38  It All Started On That Day! Vivi Tells The Story Of Her Adventure!  2002-10-20   
-
+#EN 7 x 38  It All Started On That Day! Vivi Tells The Story Of Her Adventure!  2002-10-20
+Všechno začalo toho dne! Vivi vypráví o svých dobrodružstvích!
 130
-#EN 7 x 39  Scent of Danger! The Seventh Member is Nico Robin!  2002-10-27   
-
+#EN 7 x 39  Scent of Danger! The Seventh Member is Nico Robin!  2002-10-27
+Pozor na její pach! Číslo sedm je Nico Robin!
 131
-#EN 8 x 1   The First Patient! The Untold Story Of The Rumble Ball! 2002-11-03   
-
+#EN 8 x 1   The First Patient! The Untold Story Of The Rumble Ball! 2002-11-03
+První pacient! Příhoda s  Rumble Ballem
 132
-#EN 8 x 2   Uprising of the Navigator! For the Unyielding Dream!    2002-11-10   
-
+#EN 8 x 2   Uprising of the Navigator! For the Unyielding Dream!    2002-11-10
+Vzpoura navigátorky! Pro neochvějný sen!
 133
-#EN 8 x 3   A Recipe Handed Down! Sanji, the Iron Man of Curry! 2002-11-17   
-
+#EN 8 x 3   A Recipe Handed Down! Sanji, the Iron Man of Curry! 2002-11-17
+Zděděný recept! Sanji, expert na karí
 134
-#EN 8 x 4   I Will Make It Bloom! Usopp The Man And The Eight-Foot Shell!   2002-11-24   
-
+#EN 8 x 4   I Will Make It Bloom! Usopp The Man And The Eight-Foot Shell!   2002-11-24
+Nechám ji rozkvést! Osmishaková koule mužného Usoppa
 135
-#EN 8 x 5   The Fabled Pirate Hunter! Zoro, The Wandering Swordsman!    2002-12-01   
-
+#EN 8 x 5   The Fabled Pirate Hunter! Zoro, The Wandering Swordsman!    2002-12-01
+Nechvalně známý pirátský lovec! Potulný šermíř Zoro
 136
-#EN 8 x 6   Zenny Of The Island Of Goats And The Pirate Ship In The Mountains!  2002-12-08   
-
+#EN 8 x 6   Zenny Of The Island Of Goats And The Pirate Ship In The Mountains!  2002-12-08
+Zenny žije na Kozím ostrově a má na hoře pirátskou loď!
 137
-#EN 8 x 7   How's Tricks? The Designs of Zenny the Moneylender! 2002-12-15   
-
+#EN 8 x 7   How's Tricks? The Designs of Zenny the Moneylender! 2002-12-15
+Co takovejhle zisk? Ambice lichváře Zennyho!
 138
-#EN 8 x 8   Whereabouts of the Island Treasure! Attack of the Zenny Pirates!    2002-12-22   
-
+#EN 8 x 8   Whereabouts of the Island Treasure! Attack of the Zenny Pirates!    2002-12-22
+Kde leží poklad ostrova! Zennyho piráti, plný útok!
 139
-#EN 8 x 9   Legend Of The Rainbow Mist! Old Man Henzo Of Luluka Island! 2003-01-05   
-
+#EN 8 x 9   Legend Of The Rainbow Mist! Old Man Henzo Of Luluka Island! 2003-01-05
+Legenda o duhové mlze! Starý Henzo z ostrova Ruluka
 140
-#EN 8 x 10  Residents of the Land of Eternity! The Pumpkin Pirates! 2003-01-12   
-
+#EN 8 x 10  Residents of the Land of Eternity! The Pumpkin Pirates! 2003-01-12
+Obyvatelé Země Nezemě! Dýňoví piráti!
 141
-#EN 8 x 11  Thoughts of Home! The Pirate Graveyard of No Escape!    2003-01-19   
-
+#EN 8 x 11  Thoughts of Home! The Pirate Graveyard of No Escape!    2003-01-19
+Touha po domově! Hřbitov pirátů, odkud není úniku!
 142
-#EN 8 x 12  An Inevitable Melee! Wetton's Schemes and the Rainbow Tower!    2003-01-26   
-
+#EN 8 x 12  An Inevitable Melee! Wetton's Schemes and the Rainbow Tower!    2003-01-26
+Zuřivý zápas! Whettonovy plány a Rainbow Tower
 143
-#EN 8 x 13  And So, the Legend Begins! To the Other Side of the Rainbow!    2003-02-02   
-
+#EN 8 x 13  And So, the Legend Begins! To the Other Side of the Rainbow!    2003-02-02
+A potom začíná legenda! Až na konec duhy!
 144
-#EN 9 x 1   The Log is Taken! Salvage King, Masira! 2003-02-09   
-
+#EN 9 x 1   The Log is Taken! Salvage King, Masira! 2003-02-09
+Ovládnutý Log! Král záchranných operací, Masira!
 145
-#EN 9 x 2   Monsters Appear! Don't Touch the Whitebeard Pirates 2003-02-16   
-
+#EN 9 x 2   Monsters Appear! Don't Touch the Whitebeard Pirates 2003-02-16
+Objevují se příšery! Nesahejte na Bělovousovy piráty
 146
-#EN 9 x 3   Stop Dreaming! The City of Ridicule, Mock Town! 2003-02-23   
-
+#EN 9 x 3   Stop Dreaming! The City of Ridicule, Mock Town! 2003-02-23
+Přestaňte snít! Město výsměchu, Mock Town!
 147
-#EN 9 x 4   A Pirate's Height! The Man who Talks of Dreams and the King of Underwater Exploration   2003-03-09   
-
+#EN 9 x 4   A Pirate's Height! The Man who Talks of Dreams and the King of Underwater Exploration   2003-03-09
+Vrchol pirátství! Muž, který mluví o snech a král podvodního výzkumu
 148
-#EN 9 x 5   The Legendary Family! 'Liar Norland'    2003-03-16   
-
+#EN 9 x 5   The Legendary Family! 'Liar Norland'    2003-03-16
+Legendární rodina! Lhář Norland
 149
-#EN 9 x 6   Hard Turn to the Clouds! Find the Southbird!    2003-03-23   
-
+#EN 9 x 6   Hard Turn to the Clouds! Find the Southbird!    2003-03-23
+Ostře zatočit do oblak! Najděte Southbirda!
 150
-#EN 9 x 7   Dreams Don't Come True!? Bellamy vs. The Saruyama Alliance  2003-04-13   
-
+#EN 9 x 7   Dreams Don't Come True!? Bellamy vs. The Saruyama Alliance  2003-04-13
+Sny se neplní?! Bellamy proti Alianci Saruyama
 151
-#EN 9 x 8   The 100 Million Man! The World's Greatest Authority and the Pirate Blackbeard   2003-04-20   
-
+#EN 9 x 8   The 100 Million Man! The World's Greatest Authority and the Pirate Blackbeard   2003-04-20
+Stomiliónový muž! Nejvyšší světová autorita a pirát Černovous
 152
-#EN 9 x 9   Sail into the Sky! Ride the Knock-Up Stream 2003-04-27   
-
+#EN 9 x 9   Sail into the Sky! Ride the Knock-Up Stream 2003-04-27
+Plavte se na oblohu! Jeďte na Knock-Up Streamu
 153
-#EN 9 x 10  This is the Sea of the Sky! The Knight of the Sky and Heaven's Gate 2003-05-04   
-
+#EN 9 x 10  This is the Sea of the Sky! The Knight of the Sky and Heaven's Gate 2003-05-04
+Tohle je moře oblohy! Rytíř nebes a Nebeská brána
 154
-#EN 9 x 11  Godland Skypiea! The Angels Of the Cloud Beach  2003-05-11   
-
+#EN 9 x 11  Godland Skypiea! The Angels Of the Cloud Beach  2003-05-11
+Země Boha, Skypiea! Andělé z Oblačné pláže
 155
-#EN 9 x 12  Forbidden Sacred Ground! The Island Where God Resides and Heaven's Judgement!   2003-05-18   
-
+#EN 9 x 12  Forbidden Sacred Ground! The Island Where God Resides and Heaven's Judgement!   2003-05-18
+Zapovězená posvátná půda! Ostrov, kde přebývá Bůh, a Nebeský soud!
 156
-#EN 9 x 13  Criminals Already!? Skypiea's Upholders of the Law  2003-06-08   
-
+#EN 9 x 13  Criminals Already!? Skypiea's Upholders of the Law  2003-06-08
+To už jsme zločinci?! Skypieští strážci zákona
 157
-#EN 9 x 14  Can we Escape!? God's Ordeals are Set in Motion!    2003-06-15   
-
+#EN 9 x 14  Can we Escape!? God's Ordeals are Set in Motion!    2003-06-15
+Můžeme utéct?! Boží zkoušky se rozjíždějí!
 158
-#EN 9 x 15  Trap on Lovely Street! Almighty God Enel    2003-06-22   
-
+#EN 9 x 15  Trap on Lovely Street! Almighty God Enel    2003-06-22
+Past na Rozkošné ulici! Všemohoucí Bůh Enel
 159
-#EN 9 x 16  Go Forth, Little Crow! To the Sacrificial Altar 2003-07-06   
-
+#EN 9 x 16  Go Forth, Little Crow! To the Sacrificial Altar 2003-07-06
+Kupředu, Karasumaru! K Obětnímu oltáři
 160
-#EN 9 x 17  Survival Rate: 10%! Priest Satori with the Power of Mantra! 2003-07-13   
-
+#EN 9 x 17  Survival Rate: 10%! Priest Satori with the Power of Mantra! 2003-07-13
+Šance na přežití: deset procent! Kněz Satori se silou Mantry!
 161
-#EN 9 x 18  Peril of the Ordeal of Balls! Fight to the Death in the Lost Forest 2003-07-20   
-
+#EN 9 x 18  Peril of the Ordeal of Balls! Fight to the Death in the Lost Forest 2003-07-20
+Nebezpečí Zkoušky Koulemi! Boj na život a na smrt ve Ztraceném lese
 162
-#EN 9 x 19  Chopper's in Danger! Former God vs. Shinto priest Shura 2003-08-03   
-
+#EN 9 x 19  Chopper's in Danger! Former God vs. Shinto priest Shura 2003-08-03
+Chopper je v nebezpečí! Bývalý Bůh proti Knězi Shurovi
 163
-#EN 9 x 20  Ever Mysterious! Ordeal of String and Ordeal of Love!?  2003-08-10   
-
+#EN 9 x 20  Ever Mysterious! Ordeal of String and Ordeal of Love!?  2003-08-10
+Věčná záhada! Zkouška provazem a Zkouška lásky?!
 164
-#EN 9 x 21  Light the Fire of Shandia! Wiper the Warrior    2003-08-17   
-
+#EN 9 x 21  Light the Fire of Shandia! Wiper the Warrior    2003-08-17
+Zapalte oheň Shandry! Válečník Wiper
 165
-#EN 9 x 22  Floating Land of Gold, Jaya! To God's Shrine!   2003-08-24   
-
+#EN 9 x 22  Floating Land of Gold, Jaya! To God's Shrine!   2003-08-24
+Létající země zlata, Jaya! K Boží svatyni!
 166
-#EN 9 x 23  Eve of Gold Festival! Feelings Toward 'Vearth'! 2003-09-07   
-
+#EN 9 x 23  Eve of Gold Festival! Feelings Toward 'Vearth'! 2003-09-07
+Slavnost "Předvečer zlata"! Náklonnost Vearthu!
 167
-#EN 9 x 24  God Enel Appears! Aubade to the Survivors   2003-09-21   
-
+#EN 9 x 24  God Enel Appears! Aubade to the Survivors   2003-09-21
+Objevuje se Bůh Enel!! Óda na svítání pro přeživší
 168
-#EN 9 x 25  The Python Strikes! The Survival Game Begins    2003-10-12   
-
+#EN 9 x 25  The Python Strikes! The Survival Game Begins    2003-10-12
+Krajta útočí! Hra o přežití začíná
 169
-#EN 9 x 26  The Life-Threatening Reject! War Demon Wiper's Resolve  2003-10-19   
-
+#EN 9 x 26  The Life-Threatening Reject! War Demon Wiper's Resolve  2003-10-19
+Životu nebezpečný Reject! Odhodlání válečného démona Wipera
 170
-#EN 9 x 27  Fierce Sky Battle! Pirate Zoro vs. Fighter Braham   2003-10-19   
-
+#EN 9 x 27  Fierce Sky Battle! Pirate Zoro vs. Fighter Braham   2003-10-19
+Zuřivá nebeská bitva! Pirát Zoro proti válečníku Brahamovi
 171
-#EN 9 x 28  Howling Burn Bazooka!! Pirate Luffy vs. Wiper the Berserker 2003-10-26   
-
+#EN 9 x 28  Howling Burn Bazooka!! Pirate Luffy vs. Wiper the Berserker 2003-10-26
+Řvoucí Burn Bazooka!! Luffy proti válečnému démonu Wiperovi
 172
-#EN 9 x 29  Ordeal of Swamp! Pirate Chopper vs Gedatsu!!    2003-11-02   
-
+#EN 9 x 29  Ordeal of Swamp! Pirate Chopper vs Gedatsu!!    2003-11-02
+Zkouška Bažinou! Chopper proti Knězi Gedatsovi!!
 173
-#EN 9 x 30  The Invincible Ability! Enel's True Nature Revealed 2003-11-09   
-
+#EN 9 x 30  The Invincible Ability! Enel's True Nature Revealed 2003-11-09
+Nepřemožitelná schopnost! Enelova pravá povaha odhalena
 174
-#EN 9 x 31  The Vanished City! The Magnificent Ruins of Shandora!!  2003-11-16   
-
+#EN 9 x 31  The Vanished City! The Magnificent Ruins of Shandora!!  2003-11-16
+Zmizelé město! Velkolepé ruiny Shandry!!
 175
-#EN 9 x 32  Chance of Survival: 0%!! Pirate Chopper vs. Shinto Priest Ohm   2003-12-21   
-
+#EN 9 x 32  Chance of Survival: 0%!! Pirate Chopper vs. Shinto Priest Ohm   2003-12-21
+Pravděpodobnost přežití nula procent!! Chopper proti Knězi Ohmovi
 176
-#EN 9 x 33  Climb Giant Jack!! Showdown in the Upper Ruins  2004-01-11   
-
+#EN 9 x 33  Climb Giant Jack!! Showdown in the Upper Ruins  2004-01-11
+Vylezte na Giant Jacka!! Rozhodující bitva v horních ruinách
 177
-#EN 9 x 34  Ultimate Test of the Ordeal of Iron! The White-Barbed Death Match!! 2004-01-18   
-
+#EN 9 x 34  Ultimate Test of the Ordeal of Iron! The White-Barbed Death Match!! 2004-01-18
+Poslední test Zkoušky Železem! Boj na život a na smrt s bílými trny!!
 178
-#EN 9 x 35  Gushing Blade Attack! Pirate Zoro vs Shinto Priest Ohm!!    2004-01-25   
-
+#EN 9 x 35  Gushing Blade Attack! Pirate Zoro vs Shinto Priest Ohm!!    2004-01-25
+Útok prýštící čepele! Zoro proti Knězi Ohmovi!!
 179
-#EN 9 x 36  The Upper Ruins Crumble! The Quintet Finale!!   2004-02-01   
-
+#EN 9 x 36  The Upper Ruins Crumble! The Quintet Finale!!   2004-02-01
+Horní ruiny se hroutí! Kvintetové finále!!
 180
-#EN 9 x 37  Battle in the Ancient Ruins! God Enel's Desire!!    2004-02-08   
-
+#EN 9 x 37  Battle in the Ancient Ruins! God Enel's Desire!!    2004-02-08
+Bitva v prastarých ruinách! Touha Boha Enela!!
 181
-#EN 9 x 38  Ambitions of Fairy Vearth - The Ark, Maxim!!    2004-02-15   
-
+#EN 9 x 38  Ambitions of Fairy Vearth - The Ark, Maxim!!    2004-02-15
+Ambice Fairy Vearthu - Archa Maxim!!
 182
-#EN 9 x 39  Finally Clashing! Pirate Luffy vs God Enel!!    2004-02-22   
-
+#EN 9 x 39  Finally Clashing! Pirate Luffy vs God Enel!!    2004-02-22
+Konečně se střetli! Pirát Luffy versus Bůh Enel!!
 183
-#EN 9 x 40  Maxim Rises! The Start of Deathpiea!!   2004-02-29   
-
+#EN 9 x 40  Maxim Rises! The Start of Deathpiea!!   2004-02-29
+Maxim stoupá! Počátek Deathpiey!!
 184
-#EN 9 x 41  Luffy's Fall! God's Judgement and Nami's Desire!!   2004-03-07   
-
+#EN 9 x 41  Luffy's Fall! God's Judgement and Nami's Desire!!   2004-03-07
+Luffy padá! Boží soud a Namina touha!!
 185
-#EN 9 x 42  Two People Awaken! A Rescue in Front of Burning Love!!  2004-03-14   
-
+#EN 9 x 42  Two People Awaken! A Rescue in Front of Burning Love!!  2004-03-14
+Dvojka se probudila! Fronta planoucí lásky!!
 186
-#EN 9 x 43  Capriccio to Destruction! The Impending Doom of Sky Island!!    2004-03-21   
-
+#EN 9 x 43  Capriccio to Destruction! The Impending Doom of Sky Island!!    2004-03-21
+Capriccio ke zkáze Hrozící záhuba Nebeského ostrova!!
 187
-#EN 9 x 44  Guidance from the Sound of a Bell! The Great Warrior and Tales of an Explorer   2004-03-28   
-
+#EN 9 x 44  Guidance from the Sound of a Bell! The Great Warrior and Tales of an Explorer   2004-03-28
+Vedeni zvoněním zvonu! Příběh velkého válečníka a průzkumníka
 188
-#EN 9 x 45  Released from Disgrace! The Tears of the Great Warrior!!    2004-03-28   
-
+#EN 9 x 45  Released from Disgrace! The Tears of the Great Warrior!!    2004-03-28
+Vymaněn z hanby! Slzy Velkého válečníka!!
 189
-#EN 9 x 46  Eternal Friendship! The Bell of Oath Echoes Throughout the Giant Ocean!!    2004-04-04   
-
+#EN 9 x 46  Eternal Friendship! The Bell of Oath Echoes Throughout the Giant Ocean!!    2004-04-04
+Věční přátelé! Zvon přísahy zvoní nad mořem!!
 190
-#EN 9 x 47  The Destruction of Angel Island! Terror of The Descending Raigou!!  2004-04-25   
-
+#EN 9 x 47  The Destruction of Angel Island! Terror of The Descending Raigou!!  2004-04-25
+Zničení Andělského ostrova! Hrůza klesajícího Raigou!!
 191
-#EN 9 x 48  Chop Down Giant Jack! The Last Hope of Escaping 2004-05-02   
-
+#EN 9 x 48  Chop Down Giant Jack! The Last Hope of Escaping 2004-05-02
+Skácejte Giant Jacka! Poslední naděje na útěk
 192
-#EN 9 x 49  The Miracle in God's Country! A Love Song Heard by Angels   2004-05-09   
-
+#EN 9 x 49  The Miracle in God's Country! A Love Song Heard by Angels   2004-05-09
+Zázrak v Boží zemi! Milostná píseň, kterou slyšeli andělé
 193
-#EN 9 x 50  The War Draws to a Close! Ringing War and Wide, the Proud Fantasia  2004-05-23   
-
+#EN 9 x 50  The War Draws to a Close! Ringing War and Wide, the Proud Fantasia  2004-05-23
+Válka končí! Hrdá Fantasia, zvonící široko daleko
 194
-#EN 9 x 51  I Have Come Here! The Weaving of the Poneglyphs 2004-06-06   
-
+#EN 9 x 51  I Have Come Here! The Weaving of the Poneglyphs 2004-06-06
+Přišel jsem sem! Tkaní Poneglyfů
 195
-#EN 9 x 52  Now Heading Towards the Blue Sea! Memories of an Interwoven Finale  2004-06-13   
-
+#EN 9 x 52  Now Heading Towards the Blue Sea! Memories of an Interwoven Finale  2004-06-13
+Konečně Modré moře!! Finále protkané citem
 196
-#EN 10 x 1  Emergency Announcement! An Infamous Pirate Ship has Invaded!    2004-06-20   
-
+#EN 10 x 1  Emergency Announcement! An Infamous Pirate Ship has Invaded!    2004-06-20
+Nouzové oznámení! Napadla nás nechvalně známá pirátská loď!
 197
-#EN 10 x 2  Sanji the Chef! Demonstrating True Pride at the Marine Mess Hall!   2004-07-04   
-
+#EN 10 x 2  Sanji the Chef! Demonstrating True Pride at the Marine Mess Hall!   2004-07-04
+Šéfkuchař Sanji! Předvedení pravé hrdosti v mariňácké jídelně!
 198
-#EN 10 x 3  Zoro's Imprisonment and Chopper's Emergency Operation!  2004-07-11   
-
+#EN 10 x 3  Zoro's Imprisonment and Chopper's Emergency Operation!  2004-07-11
+Zorovo uvěznění a Chopperova nouzová operace!
 199
-#EN 10 x 4  The Marine Search Party Draws Near! Another of the Crew is Captured!    2004-07-18   
-
+#EN 10 x 4  The Marine Search Party Draws Near! Another of the Crew is Captured!    2004-07-18
+Mariňácká pátrací četa se blíží! Další člen posádky zajat!
 200
-#EN 10 x 5  Luffy and Sanji's Determination! The Great Escape Plan! 2004-08-08   
-
+#EN 10 x 5  Luffy and Sanji's Determination! The Great Escape Plan! 2004-08-08
+Luffyho a Sanjiho odhodlání! Velký únikový plán!
 201
-#EN 10 x 6  The Squadron of Burning Souls Attack! Battle on the Bridge! 2004-09-05   
+#EN 10 x 6  The Squadron of Burning Souls Attack! Battle on the Bridge! 2004-09-05
 
 202
-#EN 10 x 7  Breaking Through Enemy Lines! The Rescue of the Going Merry!    2004-09-12   
+#EN 10 x 7  Breaking Through Enemy Lines! The Rescue of the Going Merry!    2004-09-12
 
 203
-#EN 10 x 8  The Pirate Ship Disappears! Stronghold Battle, Round 2  2004-09-19   
+#EN 10 x 8  The Pirate Ship Disappears! Stronghold Battle, Round 2  2004-09-19
 
 204
-#EN 10 x 9  Operation Gold Recovery and Operation Waver Retrieval!  2004-10-03   
+#EN 10 x 9  Operation Gold Recovery and Operation Waver Retrieval!  2004-10-03
 
 205
-#EN 10 x 10 The Pirate Round-Up Plan! Jonathon's Secret Winning Strategy!   2004-10-03   
+#EN 10 x 10 The Pirate Round-Up Plan! Jonathon's Secret Winning Strategy!   2004-10-03
 
 206
-#EN 10 x 11 So Long, Marine Base! The Final Battle for Freedom  2004-10-10   
+#EN 10 x 11 So Long, Marine Base! The Final Battle for Freedom  2004-10-10
 
 207
-#EN 10 x 12 Big Adventure in Long Ring Long Land    2004-10-31   
+#EN 10 x 12 Big Adventure in Long Ring Long Land    2004-10-31
 
 208
-#EN 10 x 13 The Foxy Pirate Crew and the Davy Back! 2004-11-07   
+#EN 10 x 13 The Foxy Pirate Crew and the Davy Back! 2004-11-07
 
 209
-#EN 10 x 14 Round 1! One Lap of the Donut Race  2004-11-14   
+#EN 10 x 14 Round 1! One Lap of the Donut Race  2004-11-14
 
 210
-#EN 10 x 15 Foxy the Silver Fox! A Violent Interference 2004-11-21   
+#EN 10 x 15 Foxy the Silver Fox! A Violent Interference 2004-11-21
 
 211
-#EN 10 x 16 Round 2! Shoot into the Groggy Ring!    2004-11-28   
+#EN 10 x 16 Round 2! Shoot into the Groggy Ring!    2004-11-28
 
 212
-#EN 10 x 17 Rapid-Fire Red Cards! Groggy Ring   2004-12-05   
+#EN 10 x 17 Rapid-Fire Red Cards! Groggy Ring   2004-12-05
 
 213
-#EN 10 x 18 Round 3! Round and Round Roller Race!   2004-12-12   
+#EN 10 x 18 Round 3! Round and Round Roller Race!   2004-12-12
 
 214
-#EN 10 x 19 Burning Roller Race! Dash into the Final Round! 2004-12-19   
+#EN 10 x 19 Burning Roller Race! Dash into the Final Round! 2004-12-19
 
 215
-#EN 10 x 20 The Screaming Speed Serve! Pirate Dodgeball!    2005-01-09   
+#EN 10 x 20 The Screaming Speed Serve! Pirate Dodgeball!    2005-01-09
 
 216
-#EN 10 x 21 Final Match on the Edge! Dharma has Fallen! 2005-01-09   
+#EN 10 x 21 Final Match on the Edge! Dharma has Fallen! 2005-01-09
 
 217
-#EN 10 x 22 Captain Confrontation! The Last Fight: Combat!  2005-01-16   
+#EN 10 x 22 Captain Confrontation! The Last Fight: Combat!  2005-01-16
 
 218
-#EN 10 x 23 Full Power Noro Noro Beam vs The Invulnerable Luffy 2005-01-23   
+#EN 10 x 23 Full Power Noro Noro Beam vs The Invulnerable Luffy 2005-01-23
 
 219
-#EN 10 x 24 Heroic Fierce Combat! The Fateful Last Battle   2005-01-30   
+#EN 10 x 24 Heroic Fierce Combat! The Fateful Last Battle   2005-01-30
 
 220
-#EN 10 x 25 Lost? Stolen? Who are You?  2005-02-06   
+#EN 10 x 25 Lost? Stolen? Who are You?  2005-02-06
 
 221
-#EN 10 x 26 The Mysterious Boy with the Whistle and Robin's Guess   2005-02-13   
+#EN 10 x 26 The Mysterious Boy with the Whistle and Robin's Guess   2005-02-13
 
 222
-#EN 10 x 27 Get Back the Memories! The Pirates Land 2005-02-20   
+#EN 10 x 27 Get Back the Memories! The Pirates Land 2005-02-20
 
 223
-#EN 10 x 28 Zoro Sharpens His Fangs! A Fight with a Wild Animal 2005-02-27   
+#EN 10 x 28 Zoro Sharpens His Fangs! A Fight with a Wild Animal 2005-02-27
 
 224
-#EN 10 x 29 The Real Memory Thief's Final Counterattack!    2005-03-06   
+#EN 10 x 29 The Real Memory Thief's Final Counterattack!    2005-03-06
 
 225
-#EN 10 x 30 The Man of Pride! Foxy the Silver Fox   2005-03-13   
+#EN 10 x 30 The Man of Pride! Foxy the Silver Fox   2005-03-13
 
 226
-#EN 10 x 31 The Unbeatable Power Draws Near? A Very Dangerous Man!  2005-03-20   
+#EN 10 x 31 The Unbeatable Power Draws Near? A Very Dangerous Man!  2005-03-20
 
 227
-#EN 11 x 1  Marine High Admiral Aokiji! The Threat of the Greatest Power    2005-03-27   
+#EN 11 x 1  Marine High Admiral Aokiji! The Threat of the Greatest Power    2005-03-27
 
 228
-#EN 11 x 2  Rubber and Ice One-On-One Fight! Luffy vs Aokiji!   2005-03-27   
+#EN 11 x 2  Rubber and Ice One-On-One Fight! Luffy vs Aokiji!   2005-03-27
 
 229
-#EN 11 x 3  Running Sea Train! The City of Water, Water 7   2005-04-17   
+#EN 11 x 3  Running Sea Train! The City of Water, Water 7   2005-04-17
 
 230
-#EN 11 x 4  The Adventure in the City of Water! Aim for the Giant Shipyard  2005-04-24   
+#EN 11 x 4  The Adventure in the City of Water! Aim for the Giant Shipyard  2005-04-24
 
 231
-#EN 11 x 5  The Franky Family and Iceburg!  2005-05-01   
+#EN 11 x 5  The Franky Family and Iceburg!  2005-05-01
 
 232
-#EN 11 x 6  Galley-La Company! The Magnificent Dock #1  2005-05-15   
+#EN 11 x 6  Galley-La Company! The Magnificent Dock #1  2005-05-15
 
 233
-#EN 11 x 7  The Pirate Kidnapping Incident and the Pirate Ship Waits for Death! 2005-05-22   
+#EN 11 x 7  The Pirate Kidnapping Incident and the Pirate Ship Waits for Death! 2005-05-22
 
 234
-#EN 11 x 8  Rescuing a Friend! The Raid on the Franky House 2005-06-05   
+#EN 11 x 8  Rescuing a Friend! The Raid on the Franky House 2005-06-05
 
 235
-#EN 11 x 9  Quarrel in the Moonlight! The Pirate Ship Trembles in Sadness   2005-06-12   
+#EN 11 x 9  Quarrel in the Moonlight! The Pirate Ship Trembles in Sadness   2005-06-12
 
 236
-#EN 11 x 10 Luffy vs Usopp! The Spirit of the Clashing Men  2005-06-19   
+#EN 11 x 10 Luffy vs Usopp! The Spirit of the Clashing Men  2005-06-19
 
 237
-#EN 11 x 11 The City of Water is Shaking! Iceburg was Targeted! 2005-07-03   
+#EN 11 x 11 The City of Water is Shaking! Iceburg was Targeted! 2005-07-03
 
 238
-#EN 11 x 12 Rubberman vs Fire-Breathing Cyborg  2005-07-10   
+#EN 11 x 12 Rubberman vs Fire-Breathing Cyborg  2005-07-10
 
 239
-#EN 11 x 13 The Criminals are the Straw Hat Pirates? The Bodyguards of Water 7  2005-07-31   
+#EN 11 x 13 The Criminals are the Straw Hat Pirates? The Bodyguards of Water 7  2005-07-31
 
 240
-#EN 11 x 14 An Eternal Farewell? Nico Robin, The Woman Who Bears Darkness   2005-08-07   
+#EN 11 x 14 An Eternal Farewell? Nico Robin, The Woman Who Bears Darkness   2005-08-07
 
 241
-#EN 11 x 15 Catch Robin! The Determination of the Straw Hat Pirates 2005-08-14   
+#EN 11 x 15 Catch Robin! The Determination of the Straw Hat Pirates 2005-08-14
 
 242
-#EN 11 x 16 The Signal is the Explosion! CP9 Starts to Move 2005-08-21   
+#EN 11 x 16 The Signal is the Explosion! CP9 Starts to Move 2005-08-21
 
 243
-#EN 11 x 17 CP9 Unmasked! Their Shocking True Faces 2005-09-04   
+#EN 11 x 17 CP9 Unmasked! Their Shocking True Faces 2005-09-04
 
 244
-#EN 11 x 18 The Secret Bond! Franky and Iceburg 2005-09-11   
+#EN 11 x 18 The Secret Bond! Franky and Iceburg 2005-09-11
 
 245
-#EN 11 x 19 Come Back, Robin! The Confrontation with CP9    2005-09-18   
+#EN 11 x 19 Come Back, Robin! The Confrontation with CP9    2005-09-18
 
 246
-#EN 11 x 20 Destruction of the Straw Hat Pirates? The Terror of the Model Leopard!  2005-10-23   
+#EN 11 x 20 Destruction of the Straw Hat Pirates? The Terror of the Model Leopard!  2005-10-23
 
 247
-#EN 11 x 21 The Man who is Loved by his Ship! Usopp's Tears!    2005-10-30   
+#EN 11 x 21 The Man who is Loved by his Ship! Usopp's Tears!    2005-10-30
 
 248
-#EN 11 x 22 Franky's Past! The Day the Sea Train Ran    2005-11-06   
+#EN 11 x 22 Franky's Past! The Day the Sea Train Ran    2005-11-06
 
 249
-#EN 11 x 23 Spandam's Conspiracy! The Day the Sea Train Shook   2005-11-13   
+#EN 11 x 23 Spandam's Conspiracy! The Day the Sea Train Shook   2005-11-13
 
 250
-#EN 11 x 24 The End of the Legendary Man! The Day the Sea Train Cried   2005-11-20   
+#EN 11 x 24 The End of the Legendary Man! The Day the Sea Train Cried   2005-11-20
 
 251
-#EN 11 x 25 The Truth Behind the Betrayal! Robin's Sorrowful Decision!  2005-11-20   
+#EN 11 x 25 The Truth Behind the Betrayal! Robin's Sorrowful Decision!  2005-11-20
 
 252
-#EN 11 x 26 The Steam Whistle Separates the Group! The Sea Train Begins to Run  2005-12-04   
+#EN 11 x 26 The Steam Whistle Separates the Group! The Sea Train Begins to Run  2005-12-04
 
 253
-#EN 11 x 27 Sanji Breaks In! The Sea Train Battle in the Storm! 2005-12-11   
+#EN 11 x 27 Sanji Breaks In! The Sea Train Battle in the Storm! 2005-12-11
 
 254
-#EN 11 x 28 The Shout of Nami's Soul! The Return of the Straw Hat!  2006-01-22   
+#EN 11 x 28 The Shout of Nami's Soul! The Return of the Straw Hat!  2006-01-22
 
 255
-#EN 11 x 29 Another Sea Train! Rocket Man Sortie    2006-01-29   
+#EN 11 x 29 Another Sea Train! Rocket Man Sortie    2006-01-29
 
 256
-#EN 11 x 30 Rescue our Friends! The Oath that Links the Enemies 2006-02-05   
+#EN 11 x 30 Rescue our Friends! The Oath that Links the Enemies 2006-02-05
 
 257
-#EN 11 x 31 Smash the Wave! Luffy and Zoro, The Strongest Combo!    2006-02-26   
+#EN 11 x 31 Smash the Wave! Luffy and Zoro, The Strongest Combo!    2006-02-26
 
 258
-#EN 11 x 32 A Man of Mystery Appears!? His Name is Sogeking!    2006-03-05   
+#EN 11 x 32 A Man of Mystery Appears!? His Name is Sogeking!    2006-03-05
 
 259
-#EN 11 x 33 Cook Confrontation! Sanji vs Ramen Kenpo    2006-03-12   
+#EN 11 x 33 Cook Confrontation! Sanji vs Ramen Kenpo    2006-03-12
 
 260
-#EN 11 x 34 Duel on the Roof! Franky vs Nero!   2006-03-19   
+#EN 11 x 34 Duel on the Roof! Franky vs Nero!   2006-03-19
 
 261
-#EN 11 x 35 Crash! Demon-Cutting Zoro vs Ship-Cutting T-Bone!   2006-04-02   
+#EN 11 x 35 Crash! Demon-Cutting Zoro vs Ship-Cutting T-Bone!   2006-04-02
 
 262
-#EN 11 x 36 Robin Struggles! Sogeking's Clever Scheme!! 2006-04-16   
+#EN 11 x 36 Robin Struggles! Sogeking's Clever Scheme!! 2006-04-16
 
 263
-#EN 11 x 37 The Judiciary Island! The Full Picture of Enies Lobby!  2006-04-30   
+#EN 11 x 37 The Judiciary Island! The Full Picture of Enies Lobby!  2006-04-30
 
 264
-#EN 11 x 38 Operation Disembarkation Commences! The Straw Hat Crew Rushes In!   2006-05-21   
+#EN 11 x 38 Operation Disembarkation Commences! The Straw Hat Crew Rushes In!   2006-05-21
 
 265
-#EN 11 x 39 Luffy Charges In! Great Decisive Battle on the Judiciary Island!    2006-06-04   
+#EN 11 x 39 Luffy Charges In! Great Decisive Battle on the Judiciary Island!    2006-06-04
 
 266
-#EN 11 x 40 Battle with the Giants! Open the Second Door!   2006-06-11   
+#EN 11 x 40 Battle with the Giants! Open the Second Door!   2006-06-11
 
 267
-#EN 11 x 41 The Means of Escaping is Opened! Fly through the Sky, Rocketman!    2006-06-18   
+#EN 11 x 41 The Means of Escaping is Opened! Fly through the Sky, Rocketman!    2006-06-18
 
 268
-#EN 11 x 42 Catch Up with Luffy! The Straw Hat Pirates' All-Out War 2006-06-25   
+#EN 11 x 42 Catch Up with Luffy! The Straw Hat Pirates' All-Out War 2006-06-25
 
 269
-#EN 11 x 43 Robin was Betrayed! The Expectations of the World Government!   2006-06-25   
+#EN 11 x 43 Robin was Betrayed! The Expectations of the World Government!   2006-06-25
 
 270
-#EN 11 x 44 Give Robin Back! Luffy vs. Blueno!  2006-07-02   
+#EN 11 x 44 Give Robin Back! Luffy vs. Blueno!  2006-07-02
 
 271
-#EN 11 x 45 Don't Stop! Raise the Signal Fire of a Counterattack!   2006-07-09   
+#EN 11 x 45 Don't Stop! Raise the Signal Fire of a Counterattack!   2006-07-09
 
 272
-#EN 11 x 46 Luffy is in Sight! Gather at the Courthouse Plaza   2006-07-23   
+#EN 11 x 46 Luffy is in Sight! Gather at the Courthouse Plaza   2006-07-23
 
 273
-#EN 11 x 47 All for the Sake of Protecting My Friends! Gear Second in Motion    2006-07-30   
+#EN 11 x 47 All for the Sake of Protecting My Friends! Gear Second in Motion    2006-07-30
 
 274
-#EN 11 x 48 Answer Us, Robin! The Outcries of the Straw Hat Crew!!  2006-08-06   
+#EN 11 x 48 Answer Us, Robin! The Outcries of the Straw Hat Crew!!  2006-08-06
 
 275
-#EN 11 x 49 Robin's Past! The Girl who was Called a Demon!  2006-08-13   
+#EN 11 x 49 Robin's Past! The Girl who was Called a Demon!  2006-08-13
 
 276
-#EN 11 x 50 The Fated Parent and Child! The Mother's Name is Olvia! 2006-09-10   
+#EN 11 x 50 The Fated Parent and Child! The Mother's Name is Olvia! 2006-09-10
 
 277
-#EN 11 x 51 Tragedy of Ohara! Fear of Buster Call!  2006-09-24   
+#EN 11 x 51 Tragedy of Ohara! Fear of Buster Call!  2006-09-24
 
 278
-#EN 11 x 52 Say You Want to Live! We are Comrades!!!    2006-09-24   
+#EN 11 x 52 Say You Want to Live! We are Comrades!!!    2006-09-24
 
 279
-#EN 11 x 53 Jump Into the Falls! Luffy's Feelings!! 2006-10-01   
+#EN 11 x 53 Jump Into the Falls! Luffy's Feelings!! 2006-10-01
 
 280
-#EN 11 x 54 A Man's Way of Life! Zoro's Techniques, Usopp's Dream   2006-10-08   
+#EN 11 x 54 A Man's Way of Life! Zoro's Techniques, Usopp's Dream   2006-10-08
 
 281
-#EN 11 x 55 Tears Which Weaved the Bond of Comrades! Nami's World Map   2006-10-15   
+#EN 11 x 55 Tears Which Weaved the Bond of Comrades! Nami's World Map   2006-10-15
 
 282
-#EN 11 x 56 Separation Refines a Man! Sanji and Chopper 2006-10-22   
+#EN 11 x 56 Separation Refines a Man! Sanji and Chopper 2006-10-22
 
 283
-#EN 11 x 57 All for my Comrades' Sake! The Darkness Within Robin!   2006-10-29   
+#EN 11 x 57 All for my Comrades' Sake! The Darkness Within Robin!   2006-10-29
 
 284
-#EN 11 x 58 The Blueprints Aren't Passed! Franky's Decision 2006-11-05   
+#EN 11 x 58 The Blueprints Aren't Passed! Franky's Decision 2006-11-05
 
 285
-#EN 11 x 59 Retrieve the 5 Keys! The Straw Hat Crew vs CP9  2006-11-12   
+#EN 11 x 59 Retrieve the 5 Keys! The Straw Hat Crew vs CP9  2006-11-12
 
 286
-#EN 11 x 60 Power of the Devil Fruit! Kaku and Jyabura Transform    2006-11-19   
+#EN 11 x 60 Power of the Devil Fruit! Kaku and Jyabura Transform    2006-11-19
 
 287
-#EN 11 x 61 Even if I Die, I Won't Kick You! Sanji's Manly Chivalry 2006-11-26   
+#EN 11 x 61 Even if I Die, I Won't Kick You! Sanji's Manly Chivalry 2006-11-26
 
 288
-#EN 11 x 62 Fukurou's Miscalculation - My Cola is the Water of Life!    2006-12-03   
+#EN 11 x 62 Fukurou's Miscalculation - My Cola is the Water of Life!    2006-12-03
 
 289
-#EN 11 x 63 Zoro's New Technique Explodes! The Katana's Name is Sogeking?   2006-12-10   
+#EN 11 x 63 Zoro's New Technique Explodes! The Katana's Name is Sogeking?   2006-12-10
 
 290
-#EN 11 x 64 Uncontrollable! Chopper's Forbidden Rumble  2006-12-17   
+#EN 11 x 64 Uncontrollable! Chopper's Forbidden Rumble  2006-12-17
 
 291
-#EN 11 x 65 Boss Luffy Returns! A Dream or Reality Lottery Trouble  2006-12-24   
+#EN 11 x 65 Boss Luffy Returns! A Dream or Reality Lottery Trouble  2006-12-24
 
 292
-#EN 11 x 66 The Great Mochimaki Race to the Castle! Conspiracy of the Red Nose  2007-01-07   
+#EN 11 x 66 The Great Mochimaki Race to the Castle! Conspiracy of the Red Nose  2007-01-07
 
 293
-#EN 11 x 67 Bubble User Kalifa! Nami Draws Near to the Soap's Trap  2007-01-14   
+#EN 11 x 67 Bubble User Kalifa! Nami Draws Near to the Soap's Trap  2007-01-14
 
 294
-#EN 11 x 68 The Resounding Bad News! The Buster Call is Invoked 2007-01-21   
+#EN 11 x 68 The Resounding Bad News! The Buster Call is Invoked 2007-01-21
 
 295
-#EN 11 x 69 5 Namis? Counterattack with the Mirage! 2007-01-28   
+#EN 11 x 69 5 Namis? Counterattack with the Mirage! 2007-01-28
 
 296
-#EN 11 x 70 Nami's Determination! Shoot the Rampaging Chopper!  2007-02-04   
+#EN 11 x 70 Nami's Determination! Shoot the Rampaging Chopper!  2007-02-04
 
 297
-#EN 11 x 71 Hunter Sanji Appears? Elegy to the Lying Wolf   2007-02-11   
+#EN 11 x 71 Hunter Sanji Appears? Elegy to the Lying Wolf   2007-02-11
 
 298
-#EN 11 x 72 Kick! Full Course of Sanji's Footwork   2007-02-25   
+#EN 11 x 72 Kick! Full Course of Sanji's Footwork   2007-02-25
 
 299
-#EN 11 x 73 The Drawn Sword's Fierce Attack! Zoro vs. Kaku Powerful Slash Showdown  2007-03-04   
+#EN 11 x 73 The Drawn Sword's Fierce Attack! Zoro vs. Kaku Powerful Slash Showdown  2007-03-04
 
 300
-#EN 11 x 74 Zoro the Fierce God! The Incarnation of Asura Revealed by His Soul  2007-03-11   
+#EN 11 x 74 Zoro the Fierce God! The Incarnation of Asura Revealed by His Soul  2007-03-11
 
 301
-#EN 11 x 75 Spandam's Shock! A Hero Stands on the Tower of Justice  2007-03-18   
+#EN 11 x 75 Spandam's Shock! A Hero Stands on the Tower of Justice  2007-03-18
 
 302
-#EN 11 x 76 Robin's Liberation! Luffy vs. Lucci: Peak of the Decisive Battle    2007-03-25   
+#EN 11 x 76 Robin's Liberation! Luffy vs. Lucci: Peak of the Decisive Battle    2007-03-25
 
 303
-#EN 11 x 77 The Criminal is Boss Luffy? Chase the Vanished Great Sakura Tree    2007-04-01   
+#EN 11 x 77 The Criminal is Boss Luffy? Chase the Vanished Great Sakura Tree    2007-04-01
 
 304
-#EN 11 x 78 If I Can't Win, I Can't Protect Anyone! Gear Third Activates    2007-04-08   
+#EN 11 x 78 If I Can't Win, I Can't Protect Anyone! Gear Third Activates    2007-04-08
 
 305
-#EN 11 x 79 The Terrifying Past! Dark Justice and Rob Lucci 2007-04-15   
+#EN 11 x 79 The Terrifying Past! Dark Justice and Rob Lucci 2007-04-15
 
 306
-#EN 11 x 80 A Phantom Mermaid is Here? Within Fading Consciousness  2007-04-22   
+#EN 11 x 80 A Phantom Mermaid is Here? Within Fading Consciousness  2007-04-22
 
 307
-#EN 11 x 81 The Island Sinking in Gunfire! Franky's Outcry of Regret    2007-04-29   
+#EN 11 x 81 The Island Sinking in Gunfire! Franky's Outcry of Regret    2007-04-29
 
 308
-#EN 11 x 82 Wait for Luffy! Fight to the Death on the Bridge of Hesitation! 2007-05-06   
+#EN 11 x 82 Wait for Luffy! Fight to the Death on the Bridge of Hesitation! 2007-05-06
 
 309
-#EN 11 x 83 Feelings Put Into Fists! Luffy's Full-Power Gatling 2007-05-13   
+#EN 11 x 83 Feelings Put Into Fists! Luffy's Full-Power Gatling 2007-05-13
 
 310
-#EN 11 x 84 A Friend Approaches from the Sea! The Straw Hat Crew's Strongest Bonds  2007-05-20   
+#EN 11 x 84 A Friend Approaches from the Sea! The Straw Hat Crew's Strongest Bonds  2007-05-20
 
 311
-#EN 11 x 85 The Crew's Great Escape! The Victor's Path is for the Pirates   2007-05-27   
+#EN 11 x 85 The Crew's Great Escape! The Victor's Path is for the Pirates   2007-05-27
 
 312
-#EN 11 x 86 Thank You Merry! The Sea of Separation in the Snow  2007-06-03   
+#EN 11 x 86 Thank You Merry! The Sea of Separation in the Snow  2007-06-03
 
 313
-#EN 11 x 87 The Disturbance of Peace! The Vice-Admiral with the Fist of Love    2007-06-10   
+#EN 11 x 87 The Disturbance of Peace! The Vice-Admiral with the Fist of Love    2007-06-10
 
 314
-#EN 11 x 88 The Strongest Family Line? Luffy's Father Revealed! 2007-06-17   
+#EN 11 x 88 The Strongest Family Line? Luffy's Father Revealed! 2007-06-17
 
 315
-#EN 11 x 89 Its Name is The New World! The Whereabouts of the Great Grand Line! 2007-06-24   
+#EN 11 x 89 Its Name is The New World! The Whereabouts of the Great Grand Line! 2007-06-24
 
 316
-#EN 11 x 90 Shanks Moves! Ceremony to the Rampaging Age 2007-07-01   
+#EN 11 x 90 Shanks Moves! Ceremony to the Rampaging Age 2007-07-01
 
 317
-#EN 11 x 91 The Girl Searching for the Yagara! Great Investigation in the Water Metropolis! 2007-07-08   
+#EN 11 x 91 The Girl Searching for the Yagara! Great Investigation in the Water Metropolis! 2007-07-08
 
 318
-#EN 11 x 92 The Mother is Strong! Zoro's Slapstick Housework Help   2007-07-15   
+#EN 11 x 92 The Mother is Strong! Zoro's Slapstick Housework Help   2007-07-15
 
 319
-#EN 11 x 93 Sanji Crashes! The Mysterious Old Man and Intense Cooking   2007-07-22   
+#EN 11 x 93 Sanji Crashes! The Mysterious Old Man and Intense Cooking   2007-07-22
 
 320
-#EN 11 x 94 Everyone's Finally Wanted! The Crew of Over Six Hundred Million!    2007-08-19   
+#EN 11 x 94 Everyone's Finally Wanted! The Crew of Over Six Hundred Million!    2007-08-19
 
 321
-#EN 11 x 95 The King of Beasts that will Cross the Ocean! The Dream Ship's Magnificent Completion!  2007-08-26   
+#EN 11 x 95 The King of Beasts that will Cross the Ocean! The Dream Ship's Magnificent Completion!  2007-08-26
 
 322
-#EN 11 x 96 Goodbye my Lovable Followers! Franky Departs    2007-09-02   
+#EN 11 x 96 Goodbye my Lovable Followers! Franky Departs    2007-09-02
 
 323
-#EN 11 x 97 Departing the Water Metropolis! Distinction of the Manly Usopp's Duel   2007-09-09   
+#EN 11 x 97 Departing the Water Metropolis! Distinction of the Manly Usopp's Duel   2007-09-09
 
 324
-#EN 11 x 98 The World-Wide Bounties! The Hometowns Dance as the Ship Sails Forward! 2007-09-16   
+#EN 11 x 98 The World-Wide Bounties! The Hometowns Dance as the Ship Sails Forward! 2007-09-16
 
 325
-#EN 11 x 99 The Most Evil Ability! Blackbeard's Darkness Attacks Ace    2007-09-23   
+#EN 11 x 99 The Most Evil Ability! Blackbeard's Darkness Attacks Ace    2007-09-23
 
 326
-#EN 12 x 1  Mysterious Party of Pirates! The Sunny and a Dangerous Trap 2007-10-14   
+#EN 12 x 1  Mysterious Party of Pirates! The Sunny and a Dangerous Trap 2007-10-14
 
 327
-#EN 12 x 2  Sunny in a Pinch! Roar, Secret Superspeed Mecha 2007-10-21   
+#EN 12 x 2  Sunny in a Pinch! Roar, Secret Superspeed Mecha 2007-10-21
 
 328
-#EN 12 x 3  The Dream Sinking in the New World! The Pirate of Despair, Puzzle   2007-10-28   
+#EN 12 x 3  The Dream Sinking in the New World! The Pirate of Despair, Puzzle   2007-10-28
 
 329
-#EN 12 x 4  The Assassins Attack! The Great Battle Above the Ice Begins 2007-11-04   
+#EN 12 x 4  The Assassins Attack! The Great Battle Above the Ice Begins 2007-11-04
 
 330
-#EN 12 x 5  The Hard Fights of the Straw Hat Crew! The Pirate Soul Banking it All on the Flag!  2007-11-11   
+#EN 12 x 5  The Hard Fights of the Straw Hat Crew! The Pirate Soul Banking it All on the Flag!  2007-11-11
 
 331
-#EN 12 x 6  Hot Full Throttle! The Twins' Magnetic Power Draws Near 2007-11-18   
+#EN 12 x 6  Hot Full Throttle! The Twins' Magnetic Power Draws Near 2007-11-18
 
 332
-#EN 12 x 7  The Great Chaos Mansion! The Angry Don and the Imprisoned Crew  2007-11-25   
+#EN 12 x 7  The Great Chaos Mansion! The Angry Don and the Imprisoned Crew  2007-11-25
 
 333
-#EN 12 x 8  The Phoenix Returns! The Dream of the Pirate Flag Sworn to a Friend 2007-12-02   
+#EN 12 x 8  The Phoenix Returns! The Dream of the Pirate Flag Sworn to a Friend 2007-12-02
 
 334
-#EN 12 x 9  The Red Hot Decisive Battle! Luffy vs. the Scorching Don    2007-12-09   
+#EN 12 x 9  The Red Hot Decisive Battle! Luffy vs. the Scorching Don    2007-12-09
 
 335
-#EN 12 x 10 Waiting in the New World! Farewell to the Courageous Pirates    2007-12-16   
+#EN 12 x 10 Waiting in the New World! Farewell to the Courageous Pirates    2007-12-16
 
 336
-#EN 12 x 11 Chopperman Departs! Protect the TV Station by the Shore 2007-12-23   
+#EN 12 x 11 Chopperman Departs! Protect the TV Station by the Shore 2007-12-23
 
 337
-#EN 12 x 12 Venture Into the Devil's Sea! The Mysterious Skeleton Floating Through the Fog  2008-01-06   
+#EN 12 x 12 Venture Into the Devil's Sea! The Mysterious Skeleton Floating Through the Fog  2008-01-06
 
 338
-#EN 12 x 13 The Delight of Having Met People! The Gentleman Skeleton's True Colors  2008-01-13   
+#EN 12 x 13 The Delight of Having Met People! The Gentleman Skeleton's True Colors  2008-01-13
 
 339
-#EN 12 x 14 One Phenomenon After Another! Disembarking at Thriller Bark 2008-01-20   
+#EN 12 x 14 One Phenomenon After Another! Disembarking at Thriller Bark 2008-01-20
 
 340
-#EN 12 x 15 The Man Called a Genius! Hogback Appears!   2008-01-27   
+#EN 12 x 15 The Man Called a Genius! Hogback Appears!   2008-01-27
 
 341
-#EN 12 x 16 Nami in Big Trouble! The Zombie Mansion and the Invisible Man   2008-02-03   
+#EN 12 x 16 Nami in Big Trouble! The Zombie Mansion and the Invisible Man   2008-02-03
 
 342
-#EN 12 x 17 Mystery of the Zombies! Hogback's Nightmarish Research Laboratory   2008-02-10   
+#EN 12 x 17 Mystery of the Zombies! Hogback's Nightmarish Research Laboratory   2008-02-10
 
 343
-#EN 12 x 18 His Name is Moria! Trap of the Great Shadow-Stealing Pirate 2008-02-17   
+#EN 12 x 18 His Name is Moria! Trap of the Great Shadow-Stealing Pirate 2008-02-17
 
 344
-#EN 12 x 19 Feast of the Zombie Song! The Bell of the Night Raid is a Sound of Darkness 2008-02-24   
+#EN 12 x 19 Feast of the Zombie Song! The Bell of the Night Raid is a Sound of Darkness 2008-02-24
 
 345
-#EN 12 x 20 Filled with Animals!? Perona's Wonder Garden    2008-03-02   
+#EN 12 x 20 Filled with Animals!? Perona's Wonder Garden    2008-03-02
 
 346
-#EN 12 x 21 Disappearing Strawhat Crew! The Mysterious Swordsman Appears!   2008-03-09   
+#EN 12 x 21 Disappearing Strawhat Crew! The Mysterious Swordsman Appears!   2008-03-09
 
 347
-#EN 12 x 22 Leftover Chivalry! The Traitorous Zombie who Protects Nami  2008-03-16   
+#EN 12 x 22 Leftover Chivalry! The Traitorous Zombie who Protects Nami  2008-03-16
 
 348
-#EN 12 x 23 Coming from the Sky! That Man is the    2008-03-23   
+#EN 12 x 23 Coming from the Sky! That Man is the    2008-03-23
 
 349
-#EN 12 x 24 Luffy in an Emergency! The Living Place of the Strongest Shadow!    2008-03-30   
+#EN 12 x 24 Luffy in an Emergency! The Living Place of the Strongest Shadow!    2008-03-30
 
 350
-#EN 12 x 25 The Warrior Called a Demon!! The Time of Oars's Resurrection    2008-04-20   
+#EN 12 x 25 The Warrior Called a Demon!! The Time of Oars's Resurrection    2008-04-20
 
 351
-#EN 12 x 26 Awakening After 500 Years!! Oars Revives!!  2008-04-27   
+#EN 12 x 26 Awakening After 500 Years!! Oars Revives!!  2008-04-27
 
 352
-#EN 12 x 27 Conviction Strong Enough to Beg for One's Life!! Brook Protects his Afro    2008-05-04   
+#EN 12 x 27 Conviction Strong Enough to Beg for One's Life!! Brook Protects his Afro    2008-05-04
 
 353
-#EN 12 x 28 A Man's Oath will Never Die! From Far Memories to the Waiting Friend    2008-05-11   
+#EN 12 x 28 A Man's Oath will Never Die! From Far Memories to the Waiting Friend    2008-05-11
 
 354
-#EN 12 x 29 We will Definately Meet Again! Brook and the Promise of the Cape    2008-05-18   
+#EN 12 x 29 We will Definately Meet Again! Brook and the Promise of the Cape    2008-05-18
 
 355
-#EN 12 x 30 Food, Nami and Shadows!! Luffy's Angry Counterattack    2008-05-25   
+#EN 12 x 30 Food, Nami and Shadows!! Luffy's Angry Counterattack    2008-05-25
 
 356
-#EN 12 x 31 Usopp the Strongest? Leave the Negatives to Me  2008-06-01   
+#EN 12 x 31 Usopp the Strongest? Leave the Negatives to Me  2008-06-01
 
 357
-#EN 12 x 32 Sudden Death of the General Zombies!! Oars in an Adventurous Mood   2008-06-08   
+#EN 12 x 32 Sudden Death of the General Zombies!! Oars in an Adventurous Mood   2008-06-08
 
 358
-#EN 12 x 33 Sanji, the Knight of Flames!! Kick Down the False Ceremony  2008-06-15   
+#EN 12 x 33 Sanji, the Knight of Flames!! Kick Down the False Ceremony  2008-06-15
 
 359
-#EN 12 x 34 Invisibility Connection? Sanji's Stolen Dream   2008-06-22   
+#EN 12 x 34 Invisibility Connection? Sanji's Stolen Dream   2008-06-22
 
 360
-#EN 12 x 35 Saving Hero!! The Enemy is the Invincible Princess  2008-06-29   
+#EN 12 x 35 Saving Hero!! The Enemy is the Invincible Princess  2008-06-29
 
 361
-#EN 12 x 36 Perona's Terror!! The U in Uso is the U in Usopp    2008-07-06   
+#EN 12 x 36 Perona's Terror!! The U in Uso is the U in Usopp    2008-07-06
 
 362
-#EN 12 x 37 Slashes Dancing on the Roof!! Finale - Zoro vs. Ryuma   2008-07-13   
+#EN 12 x 37 Slashes Dancing on the Roof!! Finale - Zoro vs. Ryuma   2008-07-13
 
 363
-#EN 12 x 38 Chopper`s Rage!! Hogback`s Demonic Medical Practice 2008-07-20   
+#EN 12 x 38 Chopper`s Rage!! Hogback`s Demonic Medical Practice 2008-07-20
 
 364
-#EN 12 x 39 Oars Roars!! Come Out Straw Hat Crew    2008-08-03   
+#EN 12 x 39 Oars Roars!! Come Out Straw Hat Crew    2008-08-03
 
 365
-#EN 12 x 40 The Enemy is Luffy!! The Strongest Zombie vs. the Straw Hat Crew    2008-08-10   
+#EN 12 x 40 The Enemy is Luffy!! The Strongest Zombie vs. the Straw Hat Crew    2008-08-10
 
 366
-#EN 12 x 41 Defeat Absalom!! Nami's Lightning Attack of Friendship! 2008-08-17   
+#EN 12 x 41 Defeat Absalom!! Nami's Lightning Attack of Friendship! 2008-08-17
 
 367
-#EN 12 x 42 One Down!! Sure Kill Straw Hat Docking? 2008-08-24   
+#EN 12 x 42 One Down!! Sure Kill Straw Hat Docking? 2008-08-24
 
 368
-#EN 12 x 43 Soundless Invasion!! The Mysterious Visitor: Kuma the Tyrant    2008-08-31   
+#EN 12 x 43 Soundless Invasion!! The Mysterious Visitor: Kuma the Tyrant    2008-08-31
 
 369
-#EN 12 x 44 Oars + Moria - The Greatest Combination of Brains and Brawn 2008-09-07   
+#EN 12 x 44 Oars + Moria - The Greatest Combination of Brains and Brawn 2008-09-07
 
 370
-#EN 12 x 45 A Crazy Strategy to Turn the Tables - The Creation of Nightmare Luffy   2008-09-14   
+#EN 12 x 45 A Crazy Strategy to Turn the Tables - The Creation of Nightmare Luffy   2008-09-14
 
 371
-#EN 12 x 46 The Straw Hat crew annihilated! Full-throttle Kage Kage abilities!  2008-09-21   
+#EN 12 x 46 The Straw Hat crew annihilated! Full-throttle Kage Kage abilities!  2008-09-21
 
 372
-#EN 12 x 47 The Battle for Superiority Starts! Luffy vs. Luffy  2008-09-28   
+#EN 12 x 47 The Battle for Superiority Starts! Luffy vs. Luffy  2008-09-28
 
 373
-#EN 12 x 48 The Conclusion Arrives! Deliver the Finishing Blow  2008-10-05   
+#EN 12 x 48 The Conclusion Arrives! Deliver the Finishing Blow  2008-10-05
 
 374
-#EN 12 x 49 The Bodies Vanish! The Morning Sun Pierces Through the Nightmare Island!    2008-10-12   
+#EN 12 x 49 The Bodies Vanish! The Morning Sun Pierces Through the Nightmare Island!    2008-10-12
 
 375
-#EN 12 x 50 The Endless Crisis! Orders to Obliterate the Straw Hat Crew 2008-10-19   
+#EN 12 x 50 The Endless Crisis! Orders to Obliterate the Straw Hat Crew 2008-10-19
 
 376
-#EN 12 x 51 Kuma`s Nikyu Nikyu Abilities That Deflect Everything    2008-11-09   
+#EN 12 x 51 Kuma`s Nikyu Nikyu Abilities That Deflect Everything    2008-11-09
 
 377
-#EN 12 x 52 My Companions' Pain is My Pain - Zoro Prepares to Die   2008-11-16   
+#EN 12 x 52 My Companions' Pain is My Pain - Zoro Prepares to Die   2008-11-16
 
 378
-#EN 12 x 53 The Promise on that Distant Day - The Song of Pirates and a Small Whale 2008-11-23   
+#EN 12 x 53 The Promise on that Distant Day - The Song of Pirates and a Small Whale 2008-11-23
 
 379
-#EN 12 x 54 Brook`s Past - Sad Farewell to the Cheerful Crew    2008-11-30   
+#EN 12 x 54 Brook`s Past - Sad Farewell to the Cheerful Crew    2008-11-30
 
 380
-#EN 12 x 55 Binks`s Sake - The Song that Connects the Past and Present  2008-12-07   
+#EN 12 x 55 Binks`s Sake - The Song that Connects the Past and Present  2008-12-07
 
 381
-#EN 12 x 56 A New Crewmate! Musician - The Hummer Brook 2008-12-14   
+#EN 12 x 56 A New Crewmate! Musician - The Hummer Brook 2008-12-14
 
 382
-#EN 13 x 1  Noro Noro Menace - Return of Foxy the Silver Fox    2008-12-21   
+#EN 13 x 1  Noro Noro Menace - Return of Foxy the Silver Fox    2008-12-21
 
 383
-#EN 13 x 2  The Great Treasure Contest! Collapse! Spa Island    2008-12-28   
+#EN 13 x 2  The Great Treasure Contest! Collapse! Spa Island    2008-12-28
 
 384
-#EN 13 x 3  Brook`s Hard Struggle - The Difficult Path to Becoming a True Nakama    2009-01-11   
+#EN 13 x 3  Brook`s Hard Struggle - The Difficult Path to Becoming a True Nakama    2009-01-11
 
 385
-#EN 13 x 4  Arriving at Halfway Through the Grand Line! The Red Line    2009-01-18   
+#EN 13 x 4  Arriving at Halfway Through the Grand Line! The Red Line    2009-01-18
 
 386
-#EN 13 x 5  Hatred of the Straw Hat Crew - Enter Iron Mask Duval    2009-01-25   
+#EN 13 x 5  Hatred of the Straw Hat Crew - Enter Iron Mask Duval    2009-01-25
 
 387
-#EN 13 x 6  The Fated Reunion! Save the Imprisoned Fishman  2009-02-01   
+#EN 13 x 6  The Fated Reunion! Save the Imprisoned Fishman  2009-02-01
 
 388
-#EN 13 x 7  Tragedy! The Truth of the Unmasked Duval    2009-02-08   
+#EN 13 x 7  Tragedy! The Truth of the Unmasked Duval    2009-02-08
 
 389
-#EN 13 x 8  Explosion! The Sunny`s Super Secret Weapon: Gaon Cannon 2009-02-15   
+#EN 13 x 8  Explosion! The Sunny`s Super Secret Weapon: Gaon Cannon 2009-02-15
 
 390
-#EN 13 x 9  Landing to Get to Fishman Island - The Sabaody Archipelago  2009-02-22   
+#EN 13 x 9  Landing to Get to Fishman Island - The Sabaody Archipelago  2009-02-22
 
 391
-#EN 13 x 10 Tyranny! The Rulers of Sabaody, the Celestial Dragons   2009-03-01   
+#EN 13 x 10 Tyranny! The Rulers of Sabaody, the Celestial Dragons   2009-03-01
 
 392
-#EN 13 x 11 New Rivals Gather! The 11 Supernovas    2009-03-08   
+#EN 13 x 11 New Rivals Gather! The 11 Supernovas    2009-03-08
 
 393
-#EN 13 x 12 The Target is Caimie!! The Kidnappers` Evil Draws Near  2009-03-15   
+#EN 13 x 12 The Target is Caimie!! The Kidnappers` Evil Draws Near  2009-03-15
 
 394
-#EN 13 x 13 Rescue Caimie - The Dark History of the Archipelago 2009-03-29   
+#EN 13 x 13 Rescue Caimie - The Dark History of the Archipelago 2009-03-29
 
 395
-#EN 13 x 14 Time Limit - The Human Auction Begins   2009-04-05   
+#EN 13 x 14 Time Limit - The Human Auction Begins   2009-04-05
 
 396
-#EN 13 x 15 The Exploding Fist! Destroy the Auction 2009-04-12   
+#EN 13 x 15 The Exploding Fist! Destroy the Auction 2009-04-12
 
 397
-#EN 13 x 16 Huge Panic! Struggle in the Auction Hall    2009-04-19   
+#EN 13 x 16 Huge Panic! Struggle in the Auction Hall    2009-04-19
 
 398
-#EN 13 x 17 Admiral Kizaru Moves! The Sabaody Archipelago in Chaos  2009-04-26   
+#EN 13 x 17 Admiral Kizaru Moves! The Sabaody Archipelago in Chaos  2009-04-26
 
 399
-#EN 13 x 18 Break Through the Encirclement! Marines vs. Three Captains  2009-05-03   
+#EN 13 x 18 Break Through the Encirclement! Marines vs. Three Captains  2009-05-03
 
 400
-#EN 13 x 19 Roger and Rayleigh - The Pirate King and His Right Hand 2009-05-10   
+#EN 13 x 19 Roger and Rayleigh - The Pirate King and His Right Hand 2009-05-10
 
 401
-#EN 13 x 20 Impossible to Avoid!? Admiral Kizaru`s Speed of Light Kick  2009-05-17   
+#EN 13 x 20 Impossible to Avoid!? Admiral Kizaru`s Speed of Light Kick  2009-05-17
 
 402
-#EN 13 x 21 Overwhelming! The Marine Combat Weapon Pacifista    2009-05-24   
+#EN 13 x 21 Overwhelming! The Marine Combat Weapon Pacifista    2009-05-24
 
 403
-#EN 13 x 22 Another Strong Enemy Appears! Broadaxe-Wielding Sentomaru   2009-05-31   
+#EN 13 x 22 Another Strong Enemy Appears! Broadaxe-Wielding Sentomaru   2009-05-31
 
 404
-#EN 13 x 23 Admiral Kizaru's Fierce Attack. The Straw Hat Crew`s Desperate Situation!   2009-06-07   
+#EN 13 x 23 Admiral Kizaru's Fierce Attack. The Straw Hat Crew`s Desperate Situation!   2009-06-07
 
 405
-#EN 13 x 24 Disappearing Crewmates - The Final Day of the Straw Hat Crew    2009-06-14   
+#EN 13 x 24 Disappearing Crewmates - The Final Day of the Straw Hat Crew    2009-06-14
 
 406
-#EN 13 x 25 Special Historical Arc - Boss Luffy Appears Again   2009-06-21   
+#EN 13 x 25 Special Historical Arc - Boss Luffy Appears Again   2009-06-21
 
 407
-#EN 13 x 26 Special Historical Arc - Destroy! Thriller Company`s Trap   2009-06-28   
+#EN 13 x 26 Special Historical Arc - Destroy! Thriller Company`s Trap   2009-06-28
 
 408
-#EN 13 x 27 Landing! Young Men Forbidden Island Amazon Lily 2009-07-05   
+#EN 13 x 27 Landing! Young Men Forbidden Island Amazon Lily 2009-07-05
 
 409
-#EN 13 x 28 Hurry! Get back to your friends. Adventure on the Island of Women.  2009-07-12   
+#EN 13 x 28 Hurry! Get back to your friends. Adventure on the Island of Women.  2009-07-12
 
 410
-#EN 13 x 29 Everyone is Lovestruck! Pirate Empress Hancock  2009-07-19   
+#EN 13 x 29 Everyone is Lovestruck! Pirate Empress Hancock  2009-07-19
 
 411
-#EN 13 x 30 The Secret Hidden on Their Backs, Luffy Encounters The Princess 2009-08-02   
+#EN 13 x 30 The Secret Hidden on Their Backs, Luffy Encounters The Princess 2009-08-02
 
 412
-#EN 13 x 31 The Heartless Judgment! Margaret Turned to Stone!!  2009-08-09   
+#EN 13 x 31 The Heartless Judgment! Margaret Turned to Stone!!  2009-08-09
 
 413
-#EN 13 x 32 Luffy's Hard Trial! The Power of the Snake Sisters' Willpower!  2009-08-16   
+#EN 13 x 32 Luffy's Hard Trial! The Power of the Snake Sisters' Willpower!  2009-08-16
 
 414
-#EN 13 x 33 Battle with Full-Powered Abilities! Gomu Gomu vs. Hebi Hebi 2009-08-23   
+#EN 13 x 33 Battle with Full-Powered Abilities! Gomu Gomu vs. Hebi Hebi 2009-08-23
 
 415
-#EN 13 x 34 Hancock's Confession - The Sisters' Disgusting Past 2009-08-30   
+#EN 13 x 34 Hancock's Confession - The Sisters' Disgusting Past 2009-08-30
 
 416
-#EN 13 x 35 Rescue Ace! The New Destination is the Great Prison 2009-09-07   
+#EN 13 x 35 Rescue Ace! The New Destination is the Great Prison 2009-09-07
 
 417
-#EN 13 x 36 Love is a Hurricane! Hancock Madly in Love  2009-09-13   
+#EN 13 x 36 Love is a Hurricane! Hancock Madly in Love  2009-09-13
 
 418
-#EN 13 x 37 The Crew's Whereabouts - Weather Science and Karakuri Island    2009-09-20   
+#EN 13 x 37 The Crew's Whereabouts - Weather Science and Karakuri Island    2009-09-20
 
 419
-#EN 13 x 38 The Crew's Whereabouts - The Island of Giant Birds and the Pink Paradise!   2009-09-27   
+#EN 13 x 38 The Crew's Whereabouts - The Island of Giant Birds and the Pink Paradise!   2009-09-27
 
 420
-#EN 13 x 39 The Crew's Whereabouts - The Bridge that Connects Islands and Man-Eating Plants 2009-10-04   
+#EN 13 x 39 The Crew's Whereabouts - The Bridge that Connects Islands and Man-Eating Plants 2009-10-04
 
 421
-#EN 13 x 40 The Crew's Whereabouts - The Negative Princess and the Devil King!  2009-10-11   
+#EN 13 x 40 The Crew's Whereabouts - The Negative Princess and the Devil King!  2009-10-11
 
 422
-#EN 13 x 41 A Life-threatening Break-in! The Underwater Prison Impel Down!  2009-10-18   
+#EN 13 x 41 A Life-threatening Break-in! The Underwater Prison Impel Down!  2009-10-18
 
 423
-#EN 13 x 42 Reunion in Hell!? The powerful User of the Bara Bara No Mi! 2009-10-25   
+#EN 13 x 42 Reunion in Hell!? The powerful User of the Bara Bara No Mi! 2009-10-25
 
 424
-#EN 13 x 43 Break through Crimson Hell! Buggys great Uproar Plan    2009-11-01   
+#EN 13 x 43 Break through Crimson Hell! Buggys great Uproar Plan    2009-11-01
 
 425
-#EN 13 x 44 The Prison's strongest Man! Introduction of the Poison-Man Magellan 2009-11-08   
+#EN 13 x 44 The Prison's strongest Man! Introduction of the Poison-Man Magellan 2009-11-08
 
 426
 #426 – Epizoda 426 (filler k movie Strong World)
-#EN 13 x 45 A Special Presentation Related to the Movie! A Gold Lion's Ambition on the Move!    2009-11-15   
+#EN 13 x 45 A Special Presentation Related to the Movie! A Gold Lion's Ambition on the Move!    2009-11-15
 
 427
 #427 – Speciální filmová epizoda. Zacíleno na malé East Blue.
-#EN 13 x 46 A Special Presentation Related to the Movie! Little East Blue in Danger!    2009-11-22   
+#EN 13 x 46 A Special Presentation Related to the Movie! Little East Blue in Danger!    2009-11-22
 
 428
 #428 – Speciální filmová epizoda. Zuřivý útok Amigo pirátů.
-#EN 13 x 47 A Special Presentation Related to the Movie! The Fierce Onslaught of the Amigo Pirates! 2009-11-29   
+#EN 13 x 47 A Special Presentation Related to the Movie! The Fierce Onslaught of the Amigo Pirates! 2009-11-29
 
 429
 #429 – Speciální filmová epizoda. Rozhodujíci bitva! Luffy vs Largo.
-#EN 13 x 48 A Special Presentation Related to the Movie! Luffy vs. Largo - The Battle is On!    2009-12-06   
+#EN 13 x 48 A Special Presentation Related to the Movie! Luffy vs. Largo - The Battle is On!    2009-12-06
 
 430
-#EN 13 x 49 The Imprisoned Royal Shichibukai! Jinbei, Knight of the Sea 2009-12-13   
+#EN 13 x 49 The Imprisoned Royal Shichibukai! Jinbei, Knight of the Sea 2009-12-13
 
 431
-#EN 13 x 50 The Trap of Chief Guard Saldeath - Level 3 Starvation Hell  2009-12-20   
+#EN 13 x 50 The Trap of Chief Guard Saldeath - Level 3 Starvation Hell  2009-12-20
 
 432
-#EN 13 x 51 The Liberated Swan! Reunion! Bon Kurei  2009-12-27   
+#EN 13 x 51 The Liberated Swan! Reunion! Bon Kurei  2009-12-27
 
 433
-#EN 13 x 52 Chief Warden Magellan Moves - The Net to Trap Straw Hat Is Complete!    2010-01-10   
+#EN 13 x 52 Chief Warden Magellan Moves - The Net to Trap Straw Hat Is Complete!    2010-01-10
 
 434
-#EN 13 x 53 Preparations for War! A Decisive Battle in Level 4 - Inferno Hell   2010-01-17   
+#EN 13 x 53 Preparations for War! A Decisive Battle in Level 4 - Inferno Hell   2010-01-17
 
 435
-#EN 13 x 54 Magellan's Strength! Bon Kurei Flees Before His Enemy Out!  2010-01-24   
+#EN 13 x 54 Magellan's Strength! Bon Kurei Flees Before His Enemy Out!  2010-01-24
 
 436
-#EN 13 x 55 The Fight Finished! Luffy's Final Life-Risking Attack   2010-01-31   
+#EN 13 x 55 The Fight Finished! Luffy's Final Life-Risking Attack   2010-01-31
 
 437
-#EN 13 x 56 Because He's Our Friend - Bon Kurei's Do-or-Die Rescue  2010-02-07   
+#EN 13 x 56 Because He's Our Friend - Bon Kurei's Do-or-Die Rescue  2010-02-07
 
 438
-#EN 13 x 57 A Paradise in Hell! Impel Down - Level 5.5! 2010-02-14   
+#EN 13 x 57 A Paradise in Hell! Impel Down - Level 5.5! 2010-02-14
 
 439
-#EN 13 x 58 Luffy's Treatment Begins! Ivan-san's Miraculous Power!  2010-02-21   
+#EN 13 x 58 Luffy's Treatment Begins! Ivan-san's Miraculous Power!  2010-02-21
 
 440
-#EN 13 x 59 Believe in Miracles! Bon Clay's Cries From the Heart!   2010-02-28   
+#EN 13 x 59 Believe in Miracles! Bon Clay's Cries From the Heart!   2010-02-28
 
 441
-#EN 13 x 60 Luffy's Back! Ivan-san Begins the Breakout Plan!    2010-03-07   
+#EN 13 x 60 Luffy's Back! Ivan-san Begins the Breakout Plan!    2010-03-07
 
 442
-#EN 13 x 61 Ace's Convoy Begins! Battle on the Lowest Floor - Level 6!  2010-03-14   
+#EN 13 x 61 Ace's Convoy Begins! Battle on the Lowest Floor - Level 6!  2010-03-14
 
 443
-#EN 13 x 62 The Ultimate Team Has Formed! Shaking Impel Down!   2010-03-21   
+#EN 13 x 62 The Ultimate Team Has Formed! Shaking Impel Down!   2010-03-21
 
 444
-#EN 13 x 63 Even More Chaos! Blackbeard Teach Invades!  2010-03-28   
+#EN 13 x 63 Even More Chaos! Blackbeard Teach Invades!  2010-03-28
 
 445
-#EN 13 x 64 A Dangerous Meeting! Blackbeard and Shiryu of the Rain  2010-04-04   
+#EN 13 x 64 A Dangerous Meeting! Blackbeard and Shiryu of the Rain  2010-04-04
 
 446
-#EN 13 x 65 His Spirit Won't Break! Hannyabal Goes All Out  2010-04-11   
+#EN 13 x 65 His Spirit Won't Break! Hannyabal Goes All Out  2010-04-11
 
 447
-#EN 13 x 66 The Jet Pistol of Rage - Luffy vs. Blackbeard   2010-04-18   
+#EN 13 x 66 The Jet Pistol of Rage - Luffy vs. Blackbeard   2010-04-18
 
 448
-#EN 13 x 67 Stop Magellan! Ivan-san Unleashes His Secret Attack 2010-04-25   
+#EN 13 x 67 Stop Magellan! Ivan-san Unleashes His Secret Attack 2010-04-25
 
 449
-#EN 13 x 68 Magellan's Scheme! The Jailbreak is Obstructed  2010-05-02   
+#EN 13 x 68 Magellan's Scheme! The Jailbreak is Obstructed  2010-05-02
 
 450
-#EN 13 x 69 The Jailbreak Team Driven Into a Corner - Forbidden Move 'Venom Demon'  2010-05-09   
+#EN 13 x 69 The Jailbreak Team Driven Into a Corner - Forbidden Move 'Venom Demon'  2010-05-09
 
 451
-#EN 13 x 70 Create the Final Miracle - Break Through the Gate of Justice    2010-05-16   
+#EN 13 x 70 Create the Final Miracle - Break Through the Gate of Justice    2010-05-16
 
 452
-#EN 13 x 71 The Destination is Marine Headquarters - The Ship Sets Out to Rescue Ace!   2010-05-23   
+#EN 13 x 71 The Destination is Marine Headquarters - The Ship Sets Out to Rescue Ace!   2010-05-23
 
 453
-#EN 13 x 72 The Friends' Whereabouts! Weatheria Report and Cyborg Animals   2010-05-30   
+#EN 13 x 72 The Friends' Whereabouts! Weatheria Report and Cyborg Animals   2010-05-30
 
 454
-#EN 13 x 73 The Friends' Whereabouts! A Cheeper of Giant Birds and a Pink Showdown! 2010-06-06   
+#EN 13 x 73 The Friends' Whereabouts! A Cheeper of Giant Birds and a Pink Showdown! 2010-06-06
 
 455
-#EN 13 x 74 The Friends' Whereabouts! The Revolutionary Army and the Trap of the Forest of Gluttony!    2010-06-13   
+#EN 13 x 74 The Friends' Whereabouts! The Revolutionary Army and the Trap of the Forest of Gluttony!    2010-06-13
 
 456
-#EN 13 x 75 The Friends' Whereabouts! The Giant Gravestone and Panties of Gratitude 2010-06-20   
+#EN 13 x 75 The Friends' Whereabouts! The Giant Gravestone and Panties of Gratitude 2010-06-20
 
 457
-#EN 13 x 76 Flashback Special Before Marineford - The Brothers' Oath!   2010-06-27   
+#EN 13 x 76 Flashback Special Before Marineford - The Brothers' Oath!   2010-06-27
 
 458
-#EN 13 x 77 Flashback Special Before Marineford - The Three Admirals    2010-07-11   
+#EN 13 x 77 Flashback Special Before Marineford - The Three Admirals    2010-07-11
 
 459
-#EN 13 x 78 Ticking Down to the Time of Battle! The Navy's Strongest Lineup in Position!    2010-07-18   
+#EN 13 x 78 Ticking Down to the Time of Battle! The Navy's Strongest Lineup in Position!    2010-07-18
 
 460
-#EN 13 x 79 An Enormous Fleet Appears - The Whitebeard Pirates Invade   2010-08-01   
+#EN 13 x 79 An Enormous Fleet Appears - The Whitebeard Pirates Invade   2010-08-01
 
 461
-#EN 13 x 80 The Beginning of the War - Ace and Whitebeard's Past!   2010-08-08   
+#EN 13 x 80 The Beginning of the War - Ace and Whitebeard's Past!   2010-08-08
 
 462
-#EN 13 x 81 The Force That Could Destroy The World! The Power of the Tremor-Tremor Fruit!   2010-08-15   
+#EN 13 x 81 The Force That Could Destroy The World! The Power of the Tremor-Tremor Fruit!   2010-08-15
 
 463
-#EN 13 x 82 An All-Consuming Inferno!! Admiral Akainu's Power!  2010-08-22   
+#EN 13 x 82 An All-Consuming Inferno!! Admiral Akainu's Power!  2010-08-22
 
 464
-#EN 13 x 83 Descendant of the Devil! Little Oars Jr. Rushes!    2010-08-29   
+#EN 13 x 83 Descendant of the Devil! Little Oars Jr. Rushes!    2010-08-29
 
 465
-#EN 13 x 84 The Winner Will Be Justice - Sengoku's Strategy Is Put Into Action! 2010-09-05   
+#EN 13 x 84 The Winner Will Be Justice - Sengoku's Strategy Is Put Into Action! 2010-09-05
 
 466
-#EN 13 x 85 The Straw Hat Team Arrives - Tensions Grows on the Battlefield! 2010-09-12   
+#EN 13 x 85 The Straw Hat Team Arrives - Tensions Grows on the Battlefield! 2010-09-12
 
 467
-#EN 13 x 86 Even If It Means Death! Luffy Vs. The Navy - The Battle Starts! 2010-09-19   
+#EN 13 x 86 Even If It Means Death! Luffy Vs. The Navy - The Battle Starts! 2010-09-19
 
 468
-#EN 13 x 87 Hard Battles, One After Another! Devil's Fruit Eaters vs. Devil's Fruit Eaters! 2010-09-26   
+#EN 13 x 87 Hard Battles, One After Another! Devil's Fruit Eaters vs. Devil's Fruit Eaters! 2010-09-26
 
 469
-#EN 13 x 88 Kuma's Transformation! Ivan's Attack of Anger!  2010-10-03   
+#EN 13 x 88 Kuma's Transformation! Ivan's Attack of Anger!  2010-10-03
 
 470
-#EN 13 x 89 The Great Swordsman Mihawk! Luffy Comes Under the Attack of the Black Sword!    2010-10-10   
+#EN 13 x 89 The Great Swordsman Mihawk! Luffy Comes Under the Attack of the Black Sword!    2010-10-10
 
 471
-#EN 13 x 90 The Extermination Strategy in Action! The Power of the Pacifistas!  2010-10-17   
+#EN 13 x 90 The Extermination Strategy in Action! The Power of the Pacifistas!  2010-10-17
 
 472
-#EN 13 x 91 Akainu's Plot! Whitebeard Trapped!  2010-10-24   
+#EN 13 x 91 Akainu's Plot! Whitebeard Trapped!  2010-10-24
 
 473
-#EN 13 x 92 The Encircling Walls Activated! The Whitebeard Pirates Backed into a Corner!!   2010-10-31   
+#EN 13 x 92 The Encircling Walls Activated! The Whitebeard Pirates Backed into a Corner!!   2010-10-31
 
 474
-#EN 13 x 93 The Order to Perform the Execution is Given - Break Through the Encircling Wall!    2010-11-07   
+#EN 13 x 93 The Order to Perform the Execution is Given - Break Through the Encircling Wall!    2010-11-07
 
 475
-#EN 13 x 94 Moving Into the Final Phase! Whitebeard's Trump Card for Recovery!  2010-11-14   
+#EN 13 x 94 Moving Into the Final Phase! Whitebeard's Trump Card for Recovery!  2010-11-14
 
 476
-#EN 13 x 95 Luffy's Strength is Exhausted! All-Out War in the Oris Plaza!   2010-11-21   
+#EN 13 x 95 Luffy's Strength is Exhausted! All-Out War in the Oris Plaza!   2010-11-21
 
 477
-#EN 13 x 96 Power that Reduces One's Life - Tension Hormones Return 2010-11-28   
+#EN 13 x 96 Power that Reduces One's Life - Tension Hormones Return 2010-11-28
 
 478
-#EN 13 x 97 For a Promise!! Luffy and Coby Clash!   2010-12-05   
+#EN 13 x 97 For a Promise!! Luffy and Coby Clash!   2010-12-05
 
 479
-#EN 13 x 98 The Scaffold At Last! The Way To Ace Has Opened!    2010-12-12   
+#EN 13 x 98 The Scaffold At Last! The Way To Ace Has Opened!    2010-12-12
 
 480
-#EN 13 x 99 Each On Different Paths! Luffy vs. Garp!    2010-12-19   
+#EN 13 x 99 Each On Different Paths! Luffy vs. Garp!    2010-12-19
 
 481
-#EN 13 x 100    Ace is Rescued! Whitebeard's Final Captain's Orders!    2010-12-26   
+#EN 13 x 100    Ace is Rescued! Whitebeard's Final Captain's Orders!    2010-12-26
 
 482
-#EN 14 x 1  The Power that Burns Fire - Akainu's Final Move 2011-01-09   
+#EN 14 x 1  The Power that Burns Fire - Akainu's Final Move 2011-01-09
 
 483
-#EN 14 x 2  Searching for an Answer - Fire Fist Ace Dies on the Battlefield 2011-01-16   
+#EN 14 x 2  Searching for an Answer - Fire Fist Ace Dies on the Battlefield 2011-01-16
 
 484
-#EN 14 x 3  Marine Headquarters Crumbles! Whitebeard's Silent Rage! 2011-01-23   
+#EN 14 x 3  Marine Headquarters Crumbles! Whitebeard's Silent Rage! 2011-01-23
 
 485
-#EN 14 x 4  Settling the Score - Whitebeard vs. The Blackbeard Pirates  2011-01-30   
+#EN 14 x 4  Settling the Score - Whitebeard vs. The Blackbeard Pirates  2011-01-30
 
 486
-#EN 14 x 5  The Start of the Show - Blackbeard's Plot Revealed  2011-02-06   
+#EN 14 x 5  The Start of the Show - Blackbeard's Plot Revealed  2011-02-06
 
 487
-#EN 14 x 6  The Insatiable Akainu! Lava Fists Pummel Luffy! 2011-02-13   
+#EN 14 x 6  The Insatiable Akainu! Lava Fists Pummel Luffy! 2011-02-13
 
 488
-#EN 14 x 7  A Desperate Cry - Seconds of Valor that Change Destiny  2011-02-20   
+#EN 14 x 7  A Desperate Cry - Seconds of Valor that Change Destiny  2011-02-20
 
 489
-#EN 14 x 8  Enter Shanks! The Ultimate War Ends at Last 2011-03-06   
+#EN 14 x 8  Enter Shanks! The Ultimate War Ends at Last 2011-03-06
 
 490
-#EN 14 x 9  Powerful Independent Rivals! The Beginning of the 'New Era' 2011-03-13   
+#EN 14 x 9  Powerful Independent Rivals! The Beginning of the 'New Era' 2011-03-13
 
 491
-#EN 14 x 10 Arrival at the Island of Women - Cruel Reality Tortures Luffy   2011-03-20   
+#EN 14 x 10 Arrival at the Island of Women - Cruel Reality Tortures Luffy   2011-03-20
 
 492
 #492 – One Piece x Toriko 1 (filler)
-#EN 14 x 11 The Strongest Tag-Team! Luffy and Toriko's Hard Struggle!   2011-04-03   
+#EN 14 x 11 The Strongest Tag-Team! Luffy and Toriko's Hard Struggle!   2011-04-03
 
 493
-#EN 14 x 12 Luffy and Ace - The Story of the Brothers' Meeting! 2011-04-10   
+#EN 14 x 12 Luffy and Ace - The Story of the Brothers' Meeting! 2011-04-10
 
 494
-#EN 14 x 13 Enter Sabo! The Boy From the Grey Terminal  2011-04-17   
+#EN 14 x 13 Enter Sabo! The Boy From the Grey Terminal  2011-04-17
 
 495
-#EN 14 x 14 I Won't Run! Ace's Desperate Rescue Operation!  2011-04-24   
+#EN 14 x 14 I Won't Run! Ace's Desperate Rescue Operation!  2011-04-24
 
 496
-#EN 14 x 15 One Day We'll Go Out to Sea! The Oath Cups of the Three Brats!  2011-05-01   
+#EN 14 x 15 One Day We'll Go Out to Sea! The Oath Cups of the Three Brats!  2011-05-01
 
 497
-#EN 14 x 16 Leaving the Dadan Family!? The Secret Base is Complete! 2011-05-08   
+#EN 14 x 16 Leaving the Dadan Family!? The Secret Base is Complete! 2011-05-08
 
 498
-#EN 14 x 17 Luffy Becoming an Apprentice?! A Man Who Fought Against the King of the Pirates!    2011-05-15   
+#EN 14 x 17 Luffy Becoming an Apprentice?! A Man Who Fought Against the King of the Pirates!    2011-05-15
 
 499
-#EN 14 x 18 The Battle Against the Big Tiger! Who Will Be the Captain?! 2011-05-22   
+#EN 14 x 18 The Battle Against the Big Tiger! Who Will Be the Captain?! 2011-05-22
 
 500
-#EN 14 x 19 Stolen Freedom! The Nobles' Trap Draws Near the Three Brothers  2011-05-29   
+#EN 14 x 19 Stolen Freedom! The Nobles' Trap Draws Near the Three Brothers  2011-05-29
 
 501
-#EN 14 x 20 The Flames Are Lit - The Gray Terminal's Crisis 2011-06-05   
+#EN 14 x 20 The Flames Are Lit - The Gray Terminal's Crisis 2011-06-05
 
 502
-#EN 14 x 21 Where Is Freedom? The Boy's Sad Departure   2011-06-12   
+#EN 14 x 21 Where Is Freedom? The Boy's Sad Departure   2011-06-12
 
 503
-#EN 14 x 22 I'm Counting On You! A Letter From a Brother!   2011-06-19   
+#EN 14 x 22 I'm Counting On You! A Letter From a Brother!   2011-06-19
 
 504
-#EN 14 x 23 To Fulfill the Promise - Separate Departures!   2011-06-26   
+#EN 14 x 23 To Fulfill the Promise - Separate Departures!   2011-06-26
 
 505
-#EN 14 x 24 I Want to See Them! Luffy`s Tearful Scream  2011-07-03   
+#EN 14 x 24 I Want to See Them! Luffy`s Tearful Scream  2011-07-03
 
 506
-#EN 14 x 25 Straw Hats In Shock! The Bad News Has Reached Them! 2011-07-10   
+#EN 14 x 25 Straw Hats In Shock! The Bad News Has Reached Them! 2011-07-10
 
 507
-#EN 14 x 26 Reunited with Dark King Rayleigh! Decision Time For Luffy!  2011-07-17   
+#EN 14 x 26 Reunited with Dark King Rayleigh! Decision Time For Luffy!  2011-07-17
 
 508
-#EN 14 x 27 Back to Our Captain! A Jail Break at the Sky Island and the Incident on the Winter Island!  2011-07-31   
+#EN 14 x 27 Back to Our Captain! A Jail Break at the Sky Island and the Incident on the Winter Island!  2011-07-31
 
 509
-#EN 14 x 28 Encounter! The great swordsman Mihawk! Zoro's self-willed deadly struggle!  2011-08-07   
+#EN 14 x 28 Encounter! The great swordsman Mihawk! Zoro's self-willed deadly struggle!  2011-08-07
 
 510
-#EN 14 x 29 Sanji's Suffering - The Queen Returns to His Kingdom    2011-08-14   
+#EN 14 x 29 Sanji's Suffering - The Queen Returns to His Kingdom    2011-08-14
 
 511
-#EN 14 x 30 An Unbelievable Return! Luffy at the Marine Headquarters!   2011-08-21   
+#EN 14 x 30 An Unbelievable Return! Luffy at the Marine Headquarters!   2011-08-21
 
 512
-#EN 14 x 31 Delivered to Friends - The Big News Comes Through!  2011-08-28   
+#EN 14 x 31 Delivered to Friends - The Big News Comes Through!  2011-08-28
 
 513
-#EN 14 x 32 The Pirates Move Out! The Earth Shattering New World    2011-09-04   
+#EN 14 x 32 The Pirates Move Out! The Earth Shattering New World    2011-09-04
 
 514
-#EN 14 x 33 Live Through Hell - Sanji's Fight with Men at Stake 2011-09-11   
+#EN 14 x 33 Live Through Hell - Sanji's Fight with Men at Stake 2011-09-11
 
 515
-#EN 14 x 34 I Will Get Much, Much Stronger! Zoro's Pledge to his Captain!   2011-09-18   
+#EN 14 x 34 I Will Get Much, Much Stronger! Zoro's Pledge to his Captain!   2011-09-18
 
 516
-#EN 14 x 35 Luffy's Training Begins - Meet Up at the Promised Place in Two Years    2011-09-25   
+#EN 14 x 35 Luffy's Training Begins - Meet Up at the Promised Place in Two Years    2011-09-25
 
 517
-#EN 15 x 1  A New Chapter Opens - The Straw Hat Pirates Regather!   2011-10-02   
+#EN 15 x 1  A New Chapter Opens - The Straw Hat Pirates Regather!   2011-10-02
 
 518
-#EN 15 x 2  An Explosive Situation! Luffy vs Fake Luffy 2011-10-09   
+#EN 15 x 2  An Explosive Situation! Luffy vs Fake Luffy 2011-10-09
 
 519
-#EN 15 x 3  The Marines Move Out - The Straw Hat Crew Is Targeted   2011-10-16   
+#EN 15 x 3  The Marines Move Out - The Straw Hat Crew Is Targeted   2011-10-16
 
 520
-#EN 15 x 4  A Gathering of Big Shots - Threat of the Fake Straw Hat Crew    2011-10-23   
+#EN 15 x 4  A Gathering of Big Shots - Threat of the Fake Straw Hat Crew    2011-10-23
 
 521
-#EN 15 x 5  The Battle Begins! Show Them the Fruits of Training!    2011-10-30   
+#EN 15 x 5  The Battle Begins! Show Them the Fruits of Training!    2011-10-30
 
 522
-#EN 15 x 6  The Whole Crew is Gathered - Luffy Sets Sail Towards the New World  2011-11-06   
+#EN 15 x 6  The Whole Crew is Gathered - Luffy Sets Sail Towards the New World  2011-11-06
 
 523
-#EN 15 x 7  A Shocking Revelation - The Man Who Protected the Sunny 2011-11-13   
+#EN 15 x 7  A Shocking Revelation - The Man Who Protected the Sunny 2011-11-13
 
 524
-#EN 15 x 8  Undersea Struggle - The Demon of the Deep Appears   2011-11-20   
+#EN 15 x 8  Undersea Struggle - The Demon of the Deep Appears   2011-11-20
 
 525
-#EN 15 x 9  Disaster in the Deep Sea, The Straw Hat Crew Gets Lost! 2011-11-27   
+#EN 15 x 9  Disaster in the Deep Sea, The Straw Hat Crew Gets Lost! 2011-11-27
 
 526
-#EN 15 x 10 Undersea Volcanic Eruption! Sailing To Fishman Island   2011-12-04   
+#EN 15 x 10 Undersea Volcanic Eruption! Sailing To Fishman Island   2011-12-04
 
 527
-#EN 15 x 11 Landing at Fishman Island - The Lovely Mermaids 2011-12-11   
+#EN 15 x 11 Landing at Fishman Island - The Lovely Mermaids 2011-12-11
 
 528
-#EN 15 x 12 Explosive Stimulation! Sanji's Life Crisis! 2011-12-18   
+#EN 15 x 12 Explosive Stimulation! Sanji's Life Crisis! 2011-12-18
 
 529
-#EN 15 x 13 Fishman Island Collapses!? Shirley's Prediction 2011-12-25   
+#EN 15 x 13 Fishman Island Collapses!? Shirley's Prediction 2011-12-25
 
 530
-#EN 15 x 14 The King of Fishman Island, Sea God Neptune!    2012-01-08   
+#EN 15 x 14 The King of Fishman Island, Sea God Neptune!    2012-01-08
 
 531
-#EN 15 x 15 The Ryugu Castle! Brought by the Shark They Saved   2012-01-15   
+#EN 15 x 15 The Ryugu Castle! Brought by the Shark They Saved   2012-01-15
 
 532
-#EN 15 x 16 A Coward and a Crybaby! The Princess in the Hard Shell Tower    2012-01-22   
+#EN 15 x 16 A Coward and a Crybaby! The Princess in the Hard Shell Tower    2012-01-22
 
 533
-#EN 15 x 17 State of Emergency! Ryugu Palace Taken Over!    2012-01-29   
+#EN 15 x 17 State of Emergency! Ryugu Palace Taken Over!    2012-01-29
 
 534
-#EN 15 x 18 Ryugu Palace Quivers! The Case of the Kidnapped Shirahoshi  2012-02-05   
+#EN 15 x 18 Ryugu Palace Quivers! The Case of the Kidnapped Shirahoshi  2012-02-05
 
 535
-#EN 15 x 19 Hordy's Invasion! The Beginning of the Plan for Revenge!    2012-02-12   
+#EN 15 x 19 Hordy's Invasion! The Beginning of the Plan for Revenge!    2012-02-12
 
 536
-#EN 15 x 20 The Ryugu Palace Fight! Zoro vs. Hody!  2012-02-19   
+#EN 15 x 20 The Ryugu Palace Fight! Zoro vs. Hody!  2012-02-19
 
 537
-#EN 15 x 21 Keep Shirahoshi Safe! Decken Close Behind!  2012-02-26   
+#EN 15 x 21 Keep Shirahoshi Safe! Decken Close Behind!  2012-02-26
 
 538
-#EN 15 x 22 The Crew Falls?! Hody Conquers Ryuuguu Palace   2012-03-04   
+#EN 15 x 22 The Crew Falls?! Hody Conquers Ryuuguu Palace   2012-03-04
 
 539
-#EN 15 x 23 Revived Relations, Nami and the Fishman Pirates 2012-03-18   
+#EN 15 x 23 Revived Relations, Nami and the Fishman Pirates 2012-03-18
 
 540
-#EN 15 x 24 The Hero Who Freed The Slaves: Tiger The Adventurer 2012-03-25   
+#EN 15 x 24 The Hero Who Freed The Slaves: Tiger The Adventurer 2012-03-25
 
 541
-#EN 15 x 25 Kizaru Appears! A Trap Aimed At Tiger!  2012-04-01   
+#EN 15 x 25 Kizaru Appears! A Trap Aimed At Tiger!  2012-04-01
 
 542
 #542 – One Piece x Toriko 2 (filler)
-#EN 15 x 26 Toriko x One Piece Special: Team Formation! Save Chopper!   2012-04-08   
+#EN 15 x 26 Toriko x One Piece Special: Team Formation! Save Chopper!   2012-04-08
 
 543
-#EN 15 x 27 The Hero's Last Moments! The Impact of Tiger's Truth    2012-04-15   
+#EN 15 x 27 The Hero's Last Moments! The Impact of Tiger's Truth    2012-04-15
 
 544
-#EN 15 x 28 The Pirates Split - Jinbe vs Arlong 2012-04-22   
+#EN 15 x 28 The Pirates Split - Jinbe vs Arlong 2012-04-22
 
 545
-#EN 15 x 29 Fishman Island is Shaking! The Landing of a Tenryubito  2012-04-29   
+#EN 15 x 29 Fishman Island is Shaking! The Landing of a Tenryubito  2012-04-29
 Rybácky ostrov otřesen! Vylodění tenryuubito.

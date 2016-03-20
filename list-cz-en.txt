@@ -102,7 +102,7 @@ Ruiny a ztracení! Vivi, kamarádi a tvar země
 Kavárna Spider's, osm hodin! Setkání nepřátelských vůdců
 104
 #EN 7 x 13  Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line! 2002-03-10
-LUFFY VERSUS VIVI! Slzavá přísaha kamarádství!
+Luffy vs Vivi! Slzavá přísaha kamarádství!
 105
 #EN 7 x 14  The Battlefront of Alabasta! Rainbase, the City of Dreams!  2002-03-17
 Alabastská válečná fronta! Město snů, Rainbase
@@ -699,7 +699,7 @@ Spandam je Překvapen! Hrdina, který Stojí na Věži Spravedlnosti.
 Robin Zachráněna! Luffy vs. Lucci: Vyvrcholení Rozhodující Bitvy
 303
 #EN 11 x 77 The Criminal is Boss Luffy? Chase the Vanished Great Sakura Tree    2007-04-01
-ZLOČINCEM JE ŠÉF LUFFY?\N NAJDĚTE ZTRACENOU OBROVSKOU SAKURU
+Zločincem je Šéf Luffy? Najděte Ztracenou Obrovskou Sakuru
 304
 #EN 11 x 78 If I Can't Win, I Can't Protect Anyone! Gear Third Activates    2007-04-08
 Když Nevyhraju, Nikoho Neochráním! Třetí Stupeň Aktivován
@@ -777,7 +777,7 @@ Sunny v Nouzi! Burácení, Tajný Extrarychlý Stroj
 Sen Utopený v Novém Světě! Pirát, který Ztratil Naději, Puzzle
 329
 #EN 12 x 4  The Assassins Attack! The Great Battle Above the Ice Begins 2007-11-04
-Útok ze Zálohy!\N VELKÁ LEDOVÁ BITVA ZAČÍNÁ.
+Útok ze Zálohy! Velká Ledová Bitva Začíná
 330
 #EN 12 x 5  The Hard Fights of the Straw Hat Crew! The Pirate Soul Banking it All on the Flag!  2007-11-11
 Těžké Bitvy Slamáků! pirátská Duše Riskující vše Pro Vlakju!
@@ -972,7 +972,7 @@ Objevují se Noví Rivalové! 11 Supernov
 Cílem je Keimi! Hrozba Únosu se Blíží!
 394
 #EN 13 x 13 Rescue Caimie - The Dark History of the Archipelago 2009-03-29
-ZACHRAŃTE KEIMI! TEMNÁ HISTORIE SABAODY!
+Zachrańte Keimi! Temná Historie Sabaody!
 395
 #EN 13 x 14 Time Limit - The Human Auction Begins   2009-04-05
 Časový Limit! Opona nad Lidskou Aukcí Stoupá
